@@ -1,0 +1,1145 @@
+,country,price_type,market,commodity,percent,post_covid,yearly
+0,Cote d'Ivoire,Retail,Abidjan,AttiÃ©kÃ©,,-0.061538462,-0.031746032
+1,Cameroon,Retail,YaundÃ©,Bananas (plantains),,0,0
+2,Cameroon,Retail,Bafoussam,Bananas (plantains),,-0.305555556,0.041666667
+3,Morocco,Retail,National Average,Barley (imported),,-0.034482759,-0.034482759
+4,Cote d'Ivoire,Retail,Abidjan,Banana (plantains),,0.769230769,0.232142857
+5,Morocco,Retail,National Average,Barley (local),,0.588235294,1.076923077
+6,Cameroon,Retail,Douala,Bananas (plantains),,-0.117647059,-0.02173913
+7,Democratic Republic of the Congo,Retail,Bukavu,Beans,,-0.112676056,0.852941177
+8,Cameroon,Retail,Bamenda,Bananas (plantains),,0.029411765,0.060606061
+9,Democratic Republic of the Congo,Retail,Goma,Beans,,0.333333333,0.632653061
+10,Rwanda,Wholesale,Kigali,Beans,,-0.122807018,-0.166666667
+11,Democratic Republic of the Congo,Retail,Lubumbashi,Beans,,0.371212121,0
+12,Rwanda,Wholesale,Ruhengeri,Beans,,-0.056603774,0
+13,Costa Rica,Retail,National Average,Beans (black),,0.014563107,0.060913706
+14,United Republic of Tanzania,Wholesale,Dar es Salaam,Beans,,0,0.228571429
+15,Uganda,Wholesale,Lira,Beans,,0.174603175,0.121212121
+16,Uganda,Wholesale,Kampala,Beans,,0.25,0.214285714
+17,Costa Rica,Wholesale,National Average,Beans (black),,0.05,0.06779661
+18,Haiti,Retail,Cap Haitien,Beans (black),,0.204545455,0.522988506
+19,Dominican Republic,Retail,Santo Domingo,Beans (black),,0.032786885,0.131736527
+20,Dominican Republic,Wholesale,Santo Domingo,Beans (black),,0.024390244,0.244444444
+21,Guatemala,Wholesale,Guatemala City,Beans (black),,0.355769231,0.532608696
+22,Guatemala,Wholesale,National Average,Beans (black),,0.352941177,0.516483517
+23,Haiti,Retail,Ouanaminthe,Beans (black),,0.055555556,0.41954023
+24,Haiti,Retail,Les Cayes,Beans (black),,0.06010929,0.375886525
+25,Haiti,Retail,Jeremie,Beans (black),,0.371621622,0.460431655
+26,Haiti,Retail,Jacmel,Beans (black),,0.104166667,0.350318471
+27,Haiti,Retail,Hinche,Beans (black),,0.31840796,0.4171123
+28,Haiti,Retail,Port-au-Prince,Beans (black),,0.115789474,0.723577236
+29,Mexico,Wholesale,Guadalajara,Beans (black),,0.010752688,0.056179775
+30,Mexico,Wholesale,Puebla,Beans (black),,0.289340102,0.0995671
+31,Mexico,Wholesale,Mexico City,Beans (black),,0.134426229,0.098412698
+32,Mexico,Wholesale,Xalapa,Beans (black),,0.082568807,0.123809524
+33,Panama,Wholesale,Panama City,Beans (poroto),,0.119791667,0.102564103
+34,Panama,Retail,Panama City,Beans (poroto),,0.157446809,0.253456221
+35,El Salvador,Wholesale,San Salvador,Beans (red),,0.32173913,0.433962264
+36,Dominican Republic,Retail,Santo Domingo,Beans (red),,0.026785714,0.059907834
+37,El Salvador,Retail,San Salvador,Beans (red),,0.094890511,0.190476191
+38,Cameroon,Retail,Bafoussam,Beans (red),,0.060869565,0.418604651
+39,Cameroon,Retail,Bamenda,Beans (red),,-0.011494253,-0.054945055
+40,Cameroon,Retail,Garoua,Beans (red),,0.005780347,0.260869565
+41,Cameroon,Retail,YaundÃ©,Beans (red),,0.095238095,0.026785714
+42,Costa Rica,Wholesale,National Average,Beans (red),,0.029126214,0.014354067
+43,Dominican Republic,Wholesale,Santo Domingo,Beans (red),,-0.036082474,0.074712644
+44,Costa Rica,Retail,National Average,Beans (red),,0.026315789,0.073394495
+45,Haiti,Retail,Cap Haitien,Beans (red),,0,0.064257028
+46,Haiti,Retail,Hinche,Beans (red),,0.228855721,0.55345912
+47,Haiti,Retail,Jacmel,Beans (red),,0.25,0.310160428
+48,Haiti,Retail,Jeremie,Beans (red),,0.145945946,0.284848485
+49,Haiti,Retail,Les Cayes,Beans (red),,0.320855615,0.260204082
+50,Haiti,Retail,Ouanaminthe,Beans (red),,0.014285714,-0.024054983
+51,Haiti,Retail,Port-au-Prince,Beans (red),,0.143518519,0.403409091
+52,Honduras,Wholesale,National Average,Beans (red),,0.088709677,0.534090909
+53,Honduras,Wholesale,San Pedro Sula,Beans (red),,0.117647059,0.564705882
+54,Honduras,Wholesale,Tegucigalpa,Beans (red),,0.149122807,0.541176471
+55,Nicaragua,Wholesale,Managua (oriental),Beans (red),,0.125169837,0.684036604
+56,Panama,Wholesale,Panama City,Beans (red),,-0.039152299,-0.043162036
+57,Panama,Retail,Panama City,Beans (red),,0.046808511,0.046808511
+58,El Salvador,Retail,San Salvador,Beans (red),,0.058441558,0.086666667
+59,El Salvador,Wholesale,San Salvador,Beans (red),,0.244274809,0.393162393
+60,Iraq,Retail,National Average,Beans (wild),,0.031746032,0.147058824
+61,Dominican Republic,Retail,Santo Domingo,Beans (white),,0.103286385,0.151960784
+62,Nicaragua,Wholesale,Managua (oriental),Beans (red),,0.133858268,0.694117647
+63,Argentina,Retail,Greater Buenos Aires,Beef meat,,0.20212766,0.107843137
+64,Egypt,Retail,National Average,Beef meat,,0.083969466,-0.011600928
+65,Azerbaijan,Retail,National Average,Beef meat,,0.021035599,0.060504202
+66,Botswana,Retail,National Average,Beef meat,,0.014778325,0.024875622
+67,Cote d'Ivoire,Retail,Abidjan,Beef meat,,-0.005037783,-0.043583535
+68,Georgia,Retail,National Average,Beef meat,,-0.037766831,-0.003401361
+69,Kazakhstan,Retail,Aktau,Beef meat,,-0.004514673,0.002272727
+70,Kazakhstan,Retail,Almaty,Beef meat,,-0.067272727,0.100858369
+71,Kazakhstan,Retail,Kostanay,Beef meat,,0.019047619,0.080808081
+72,Kazakhstan,Retail,Nur-Sultan,Beef meat,,0.034482759,0.101511879
+73,Kazakhstan,Wholesale,National Average,Beef meat,,0.643533123,0.62305296
+74,Kazakhstan,Retail,National Average,Beef meat,,-0.023758099,0.071090047
+75,Kyrgyzstan,Retail,Batken,Beef meat,,-0.067209776,-0.029661017
+76,Kyrgyzstan,Retail,Bishkek,Beef meat,,-0.053359684,0.016985138
+77,Kyrgyzstan,Retail,Jalal-Abad,Beef meat,,-0.05988024,0.00212766
+78,Kyrgyzstan,Retail,Naryn,Beef meat,,0.028384279,0.028384279
+79,Kyrgyzstan,Retail,National Average,Beef meat,,-0.070993915,-0.010799136
+80,Kyrgyzstan,Retail,Osh,Beef meat,,-0.053892216,0.004237288
+81,Mauritania,Retail,Nouakchott,Beef meat,,-0.100737101,-0.100737101
+82,Mongolia,Retail,Selenge,Beef meat,,0.259786477,-0.149038462
+83,Mongolia,Retail,Dornod,Beef meat,,0.236467237,-0.02690583
+84,Mongolia,Retail,Bayan-Ulgii,Beef meat,,0.145833333,-0.061433447
+85,Afghanistan,Retail,Jalalabad,Bread,,0.015625,0.015625
+86,Afghanistan,Retail,Herat,Bread,,0.710526316,0.710526316
+87,Afghanistan,Retail,Kabul,Bread,,0.204081633,0.204081633
+88,Afghanistan,Retail,Kandahar,Bread,,0.088888889,0.088888889
+89,Tajikistan,Retail,National Average,Beef meat,,0.014373717,0.181818182
+90,Mongolia,Retail,Ulaanbaatar,Beef meat,,0.158176944,0.048543689
+91,Mongolia,Retail,Uvurkhangai,Beef meat,,0.156050955,0.190163934
+92,Russian Federation,Retail,National Average,Beef meat,,-0.101289134,-0.056092843
+93,South Africa,Retail,National Average,Beef meat,,-0.071929825,-0.065371025
+94,Tunisia,Retail,National Average,Beef meat,,0.047034765,0.185185185
+95,Afghanistan,Retail,Jalalabad,Bread,,0.015625,0.015625
+96,Afghanistan,Retail,Herat,Bread,,0.710526316,0.710526316
+97,Afghanistan,Retail,Kabul,Bread,,0.204081633,0.204081633
+98,Afghanistan,Retail,Kandahar,Bread,,0.088888889,0.088888889
+99,Bolivia,Retail,Potosi,Bread,,0,0
+100,Chile,Retail,Santiago,Bread,,0.023809524,-0.080213904
+101,Kyrgyzstan,Retail,Bishkek,Bread,,-0.047619048,0
+102,Kyrgyzstan,Retail,Batken,Bread,,-0.078947368,-0.078947368
+103,Georgia,Retail,National Average,Bread,,-0.047619048,-0.117647059
+104,Kyrgyzstan,Retail,National Average,Bread,,-0.046153846,-0.015873016
+105,Kyrgyzstan,Retail,Naryn,Bread,,-0.070588235,0.012820513
+106,Kyrgyzstan,Retail,Jalal-Abad,Bread,,-0.02739726,0.075757576
+107,Kyrgyzstan,Retail,Osh,Bread,,-0.084507042,-0.155844156
+108,Russian Federation,Retail,National Average,Bread,,-0.088607595,-0.064935065
+109,Panama,Retail,Panama City,Bread,,0,0
+110,Russian Federation,Retail,National Average,Bread,,-0.088607595,-0.064935065
+111,Tunisia,Retail,National Average,Bread,,0,0
+112,Zimbabwe,Retail,Bulawayo,Bread,,0.096774194,0.511111111
+113,Zimbabwe,Retail,Manicaland,Bread,,0.255319149,0.216494845
+114,Zimbabwe,Retail,Harare,Bread,,0.112903226,0.4375
+115,Zimbabwe,Retail,Mash east,Bread,,0.075630252,0.122807018
+116,Zimbabwe,Retail,Mash central,Bread,,0.115702479,0.144067797
+117,Zimbabwe,Retail,Masvingo,Bread,,-0.239669422,-0.08
+118,Zimbabwe,Retail,Mash west,Bread,,0.168224299,0.506024096
+119,Israel,Retail,National Average,Bread (Sabbath loaf),,-0.007194245,0.022222222
+120,Peru,Retail,Lima,Bread (French type),,-0.009950249,-0.014851485
+121,Brazil,Retail,SÃ£o Paulo,Bread (French type),,-0.235087719,-0.27090301
+122,Zimbabwe,Retail,Mat north,Bread,,-0.075630252,0.325301205
+123,Zimbabwe,Retail,Mat south,Bread,,0.130434783,0.130434783
+124,Zimbabwe,Retail,Midlands,Bread,,-0.034188034,0.066037736
+125,Argentina,Retail,Greater Buenos Aires,Bread (French type),,-0.056179775,-0.101604278
+126,Eswatini,Retail,Hhohho,Bread (brown),,-0.175,-0.214285714
+127,Eswatini,Retail,Manzini,Bread (brown),,-0.15,-0.190476191
+128,Eswatini,Retail,Lubombo,Bread (brown),,-0.208333333,-0.25
+129,Belarus,Retail,Minsk,Bread (high grade flour),,-0.086330935,-0.066176471
+130,Azerbaijan,Retail,National Average,Bread (high grade flour),,0,0
+131,Armenia,Retail,National Average,Bread (high grade flour),,0,0.010204082
+132,Tajikistan,Retail,National Average,Bread (first grade flour),,-0.206896552,-0.041666667
+133,Armenia,Retail,National Average,Bread (first grade flour),,-0.011627907,-0.011627907
+134,Eswatini,Retail,National average,Bread (brown),,-0.17721519,-0.207317073
+135,Eswatini,Retail,Shiselweni,Bread (brown),,-0.175,-0.214285714
+136,South Africa,Retail,National Average,Bread (brown),,-0.108333333,-0.137096774
+137,Eswatini,Retail,Hhohho,Bread (white),,-0.177777778,-0.212765957
+138,Belarus,Retail,National Average,Bread (high grade flour),,-0.104477612,-0.076923077
+139,Eswatini,Retail,Lubombo,Bread (white),,-0.210526316,-0.25
+140,Eswatini,Retail,Manzini,Bread (white),,-0.177777778,-0.212765957
+141,Eswatini,Retail,National average,Bread (white),,-0.174418605,-0.211111111
+142,Eswatini,Retail,Shiselweni,Bread (white),,-0.177777778,-0.212765957
+143,Occupied Palestinian Territory,Retail,Gaza Strip,Bread (white),,0,0.014705882
+144,Occupied Palestinian Territory,Retail,West Bank,Bread (white),,-0.008849558,0.027522936
+145,South Africa,Retail,National Average,Bread (white),,-0.106870229,-0.145985402
+146,Japan,Retail,Tokyo,Cabbage,,0.655405405,0.540880503
+147,Zambia,Retail,National Average,Breakfast maize meal,,-0.209302326,0.0625
+148,Japan,Retail,Osaka,Cabbage,,0.462962963,0.394117647
+149,Mauritania,Retail,Nouakchott,Camel meat,,-0.106382979,-0.135011442
+150,South Sudan,Retail,Juba,Cassava,,1.358974359,1.139534884
+151,Mozambique,Retail,Nampula,Cassava (dry),,0.783783784,0.294117647
+152,Mozambique,Wholesale,Nampula,Cassava (dry),,0.5,0.043478261
+153,Angola,Retail,Luanda,Cassava (flour),,-0.027777778,-0.31372549
+154,Democratic Republic of the Congo,Retail,Bukavu,Cassava (flour),,-0.019607843,-0.038461538
+155,Democratic Republic of the Congo,Retail,Goma,Cassava (flour),,0.1875,0.5
+156,Democratic Republic of the Congo,Retail,Lubumbashi,Cassava (flour),,-0.011363636,0
+157,Thailand,Wholesale,Bangkok,Cassava (flour),,-0.11627907,-0.11627907
+158,Paraguay,Wholesale,AsunciÃ³n,Cassava (flour),,-0.016129032,-0.031746032
+159,Cote d'Ivoire,Retail,Abidjan,Cassava (fresh),,0,0.125
+160,Benin,Retail,Cotonou,Cassava (gari),,0.325,0.292682927
+161,Cabo Verde,Retail,S.Vincente,Cassava (manioc),,0.608333333,0.531746032
+162,Benin,Retail,Natitingou,Cassava (gari),,0.022222222,0.022222222
+163,Benin,Retail,Parakou,Cassava (gari),,-0.063829787,0
+164,Togo,Retail,Amegnran,Cassava (gari),,0.739130435,1.352941176
+165,Togo,Retail,Anie,Cassava (gari),,-0.029411765,-0.153846154
+166,Togo,Retail,CinkassÃ©,Cassava (gari),,-0.047619048,-0.183673469
+167,Togo,Retail,Kara,Cassava (gari),,0.264705882,0.131578947
+168,Togo,Retail,Korbongou,Cassava (gari),,0.275,0.108695652
+169,Togo,Retail,LomÃ©,Cassava (gari),,0.044444444,0.146341463
+170,Cabo Verde,Retail,S.AntÃ£o,Cassava (manioc),,0.113636364,0.256410256
+171,Cabo Verde,Retail,Santiago,Cassava (manioc),,-0.112956811,-0.121710526
+172,Ghana,Wholesale,Accra,Cassava (manioc),,0.739130435,0.081081081
+173,Ghana,Wholesale,Tamale,Cassava (manioc),,0.481481482,0
+174,Ghana,Wholesale,Techiman,Cassava (manioc),,1.166666667,0.857142857
+175,Cameroon,Retail,Douala,Cassava (root),,-0.117647059,-0.032258065
+176,Peru,Retail,Lima,Chicken (without offals),,-0.160194175,-0.254310345
+177,Dominican Republic,Retail,Santo Domingo,Chicken (processed),,-0.257425743,-0.324324324
+178,Malawi,Retail,Mzuzu,Cassava (root),,-0.320754717,-0.320754717
+179,Israel,Retail,National Average,Chicken meat,,-0.042274052,-0.01793722
+180,Cameroon,Retail,YaundÃ©,Cassava (root),,0.171428571,0.108108108
+181,Bolivia,Wholesale,Cochabamba,Chicken meat,,-0.261780105,0.084615385
+182,Bolivia,Wholesale,La Paz,Chicken meat,,-0.25,0.117241379
+183,Bolivia,Retail,La Paz,Chicken meat,,-0.37751004,-0.268867925
+184,Bolivia,Retail,Oruro,Chicken meat,,-0.384920635,-0.320175439
+185,Bolivia,Wholesale,Oruro,Chicken meat,,-0.160621762,0.14084507
+186,Bolivia,Retail,Potosi,Chicken meat,,-0.270833333,-0.264705882
+187,Bolivia,Retail,Santa Cruz,Chicken meat,,-0.181818182,-0.354066986
+188,Bolivia,Wholesale,Santa Cruz,Chicken meat,,-0.037878788,0.032520325
+189,Bolivia,Retail,Sucre,Chicken meat,,-0.279527559,-0.253061225
+190,Bolivia,Retail,Tarija,Chicken meat,,-0.244131455,-0.157068063
+191,Occupied Palestinian Territory,Retail,Gaza Strip,Chicken meat,,0.154046997,-0.179962894
+192,Bolivia,Retail,Trinidad,Chicken meat,,-0.328767123,-0.257575758
+193,Bolivia,Wholesale,Trinidad,Chicken meat,,-0.076555024,0.037634409
+194,Georgia,Retail,National Average,Chicken meat,,-0.069672131,-0.126923077
+195,Yemen,Retail,Hadramout,Chicken meat,,0.060263653,-0.008802817
+196,Yemen,Retail,Dhamar,Chicken meat,,0.032840723,0
+197,Tunisia,Retail,National Average,Chicken meat,,-0.125490196,0.032407407
+198,Thailand,Wholesale,Bangkok,Chicken meat,,-0.076433121,-0.02027027
+199,Samoa,Retail,National Average,Chicken meat,,-0.098360656,0.050955414
+200,Occupied Palestinian Territory,Retail,West Bank,Chicken meat,,-0.167070218,-0.085106383
+201,India,Retail,New Delhi,Chickpeas,,0.059405941,0.009433962
+202,India,Retail,Mumbai,Chickpeas,,0.075471698,0.075471698
+203,India,Retail,Chennai,Chickpeas,,0.042105263,0.076086957
+204,Saudi Arabia,Retail,National Average,Chicken meat,,0.04320432,0.030222222
+205,Yemen,Retail,Hajjah,Chicken meat,,0.015600624,0.028436019
+206,Yemen,Retail,Hodeidah,Chicken meat,,-0.015457788,0.295774648
+207,South Africa,Retail,National Average,Chicken meat,,-0.076219512,-0.114035088
+208,Panama,Wholesale,Panama City,Lentils,,0.382022472,0.108108108
+209,Tunisia,Retail,National Average,Lamb meat,,0.032553408,0.16
+210,South Sudan,Retail,Juba,Groundnuts,,0.9375,0.841584158
+211,Myanmar,Retail,Yangon,Groundnut Oil,,0.09,0.09
+212,Nigeria,Wholesale,Ibadan,Gari (white),,0.75,0.909090909
+213,Nigeria,Wholesale,Kano,Gari (white),,-0.05,0
+214,Nigeria,Wholesale,Kaura Namoda,Gari (white),,-0.041666667,-0.08
+215,Nigeria,Wholesale,Lagos,Gari (white),,0.714285714,0.714285714
+216,Nigeria,Wholesale,Maiduguri,Gari (white),,0.25,0.346153846
+217,Myanmar,Retail,Yangon,Gram,,0.219047619,0.28
+218,Panama,Retail,Panama City,Lentils,,0.205555556,0.205555556
+219,Benin,Retail,Cotonou,Maize,,0,0
+220,Benin,Retail,Natitingou,Maize,,0.08,0.038461538
+221,Benin,Retail,Parakou,Maize,,0.035714286,-0.09375
+222,Burundi,Wholesale,Bujumbura,Maize,,-0.349206349,0.366666667
+223,Cameroon,Retail,Douala,Maize,,-0.017241379,0.055555556
+224,Cameroon,Retail,Bamenda,Maize,,0,0.045454545
+225,Cameroon,Retail,Bafoussam,Maize,,0.139534884,0.088888889
+226,Burundi,Wholesale,Ngozi,Maize,,-0.412698413,0.321428571
+227,Burundi,Wholesale,Gitega,Maize,,-0.327272727,0.541666667
+228,Dominican Republic,Wholesale,Santo Domingo,Maize,,0.106382979,-0.315789474
+229,Chad,Retail,N'Djamena,Maize,,0.113636364,0.225
+230,Cameroon,Retail,Garoua,Maize,,0,-0.032258065
+231,Cameroon,Retail,YaundÃ©,Maize,,0.028169014,0.177419355
+232,Chad,Retail,Bol,Maize,,0.633333333,0.580645161
+233,Chad,Retail,Moussoro,Maize,,0.464285714,0.025
+234,Chad,Retail,N'Djamena,Maize,,0.108108108,0.205882353
+235,Democratic Republic of the Congo,Retail,Goma,Maize,,-0.208333333,0.357142857
+236,Dominican Republic,Retail,Santo Domingo,Maize,,0,-0.2375
+237,Ecuador,Wholesale,Ambato,Maize,,-0.338235294,-0.02173913
+238,Ghana,Wholesale,Accra,Maize,,-0.0625,-0.032258065
+239,Ethiopia,Wholesale,Mekele,Maize,,0.051282051,0.576923077
+240,Ethiopia,Wholesale,Diredawa,Maize,,-0.17948718,0.185185185
+241,Ethiopia,Wholesale,Bahirdar,Maize,,-0.076923077,0.384615385
+242,Ecuador,Wholesale,Guayaquil,Maize,,-0.178571429,0.045454545
+243,Ecuador,Wholesale,Quito,Maize,,-0.666666667,-0.275862069
+244,Ecuador,Wholesale,Riobamba,Maize,,-0.535211268,-0.25
+245,Ethiopia,Wholesale,Addis Ababa,Maize,,-0.166666667,0
+246,Ghana,Wholesale,Kumasi,Maize,,0.133333333,0.096774194
+247,Ghana,Wholesale,Bolgatanga,Maize,,0.117647059,-0.208333333
+248,Kenya,Wholesale,Kisumu,Maize,,1.764705882,0.678571429
+249,Ghana,Wholesale,Tamale,Maize,,0.25,0
+250,Ghana,Wholesale,Techiman,Maize,,0.357142857,-0.269230769
+251,Israel,Wholesale,National Average,Maize,,0,0
+252,Kenya,Wholesale,Eldoret,Maize,,-0.117647059,0.5
+253,Malawi,Retail,Liwonde,Maize,,-0.388888889,0
+254,Malawi,Retail,Lilongwe,Maize,,-0.171428571,0.208333333
+255,Kenya,Wholesale,Nakuru,Maize,,0,0.5
+256,Kenya,Wholesale,Nairobi,Maize,,-0.230769231,0.153846154
+257,Kenya,Wholesale,Mombasa,Maize,,-0.230769231,0.153846154
+258,Niger,Retail,Zinder,Maize,,0.033333333,-0.03125
+259,Niger,Retail,Tillaberi,Maize,,-0.029411765,-0.029411765
+260,Niger,Retail,Niamey,Maize,,0.09375,0.060606061
+261,Niger,Retail,Maradi,Maize,,0.2,0.161290323
+262,Niger,Retail,Dosso,Maize,,0.033333333,0
+263,Malawi,Retail,Mzimba,Maize,,-0.259259259,0.333333333
+264,Malawi,Retail,Mzuzu,Maize,,-0.12,0.1
+265,Malawi,Retail,National Average,Maize,,-0.323529412,0.045454545
+266,Malawi,Retail,Nsanje,Maize,,-0.333333333,-0.043478261
+267,Niger,Retail,Agadez,Maize,,0,-0.024390244
+268,Rwanda,Wholesale,Ruhengeri,Maize,,-0.289473684,-0.035714286
+269,Panama,Retail,Panama City,Maize,,0,0
+270,Panama,Wholesale,Panama City,Maize,,-0.078431373,-0.06
+271,Rwanda,Wholesale,Kigali,Maize,,-0.395348837,-0.103448276
+272,United Republic of Tanzania,Wholesale,Dar es Salaam,Maize,,-0.404761905,0
+273,United Republic of Tanzania,Wholesale,Arusha,Maize,,-0.358974359,0.041666667
+274,Uganda,Wholesale,Masindi,Maize,,0.034482759,0.153846154
+275,Uganda,Wholesale,Lira,Maize,,0.035714286,0
+276,Uganda,Wholesale,Kampala,Maize,,-0.032258065,-0.032258065
+277,Uganda,Wholesale,Kabale,Maize,,0.1,0.1
+278,Paraguay,Wholesale,AsunciÃ³n,Maize (flour),,-0.010869565,0.096385542
+279,Angola,Retail,Luanda,Maize (flour),,-0.01744186,-0.238738739
+280,Democratic Republic of the Congo,Retail,Bukavu,Maize (flour),,-0.111111111,0.20754717
+281,Democratic Republic of the Congo,Retail,Goma,Maize (flour),,-0.056603774,0.351351351
+282,Guinea,Retail,Conakry,Maize (flour),,-0.104761905,-0.153153153
+283,Morocco,Retail,National Average,Maize,,-0.138888889,-0.126760563
+284,Russian Federation,Wholesale,National Average,Maize,,0.066666667,-0.111111111
+285,Cabo Verde,Retail,Santiago,Maize (local),,-0.072580645,-0.041666667
+286,Cabo Verde,Retail,S.AntÃ£o,Maize (local),,-0.058333333,-0.058333333
+287,Colombia,Wholesale,MedellÃ­n,Maize (white),,-0.15,-0.190476191
+288,Costa Rica,Wholesale,National Average,Maize (white),,-0.09375,-0.064516129
+289,Costa Rica,Retail,National Average,Maize (white),,-0.02247191,-0.011363636
+290,Honduras,Wholesale,Tegucigalpa,Maize (white),,0.242424242,0.108108108
+291,Honduras,Wholesale,San Pedro Sula,Maize (white),,0.114285714,0.054054054
+292,Guatemala,Wholesale,National Average,Maize (white),,0.264705882,0.102564103
+293,Guatemala,Wholesale,Guatemala City,Maize (white),,0.294117647,0.1
+294,El Salvador,Wholesale,San Salvador,Maize (white),,0.081081081,-0.024390244
+295,El Salvador,Retail,San Salvador,Maize (white),,0,0
+296,Honduras,Wholesale,National Average,Maize (white),,0.176470588,0.111111111
+297,Mozambique,Retail,Angonia,Maize (white),,-0.484848485,-0.260869565
+298,Mozambique,Retail,Chokwe,Maize (white),,-0.2,0
+299,Mozambique,Retail,Gorongosa,Maize (white),,-0.485714286,0.285714286
+300,Mozambique,Retail,Manica,Maize (white),,-0.225806452,-0.172413793
+301,Mozambique,Wholesale,Maputo,Maize (white),,-0.136363636,0
+302,Mozambique,Retail,Maputo,Maize (white),,-0.155555556,0.225806452
+303,Mozambique,Retail,Montepuez,Maize (white),,0.05,0.826086957
+304,Mozambique,Retail,Nampula,Maize (white),,-0.297297297,0.130434783
+305,Mozambique,Wholesale,Nampula,Maize (white),,-0.0625,0.363636364
+306,Mozambique,Retail,Ribaue,Maize (white),,-0.1875,-0.037037037
+307,Nicaragua,Wholesale,Managua (oriental),Maize (white),,0.48,0.121212121
+308,Nigeria,Wholesale,Giwa,Maize (white),,-0.125,0.12
+309,Nigeria,Wholesale,Ibadan,Maize (white),,0.060606061,0.060606061
+310,Paraguay,Wholesale,AsunciÃ³n,Maize (white),,-0.376623377,0.170731707
+311,Nigeria,Wholesale,Maiduguri,Maize (white),,0,0.068965517
+312,Nigeria,Wholesale,Lagos,Maize (white),,0.088235294,0.088235294
+313,Nigeria,Wholesale,Kaura Namoda,Maize (white),,0.034482759,0
+314,Nigeria,Wholesale,Kano,Maize (white),,-0.03125,0.068965517
+315,Philippines,Wholesale,South Cotabato,Maize (white),,0.192307692,0
+316,Peru,Retail,Lima,Maize (white),,0.021978022,0.016393443
+317,Philippines,Wholesale,National Average,Maize (white),,0.117647059,-0.11627907
+318,Philippines,Retail,National Average,Maize (white),,0.037735849,-0.017857143
+319,Somalia,Retail,Belet Weyne,Maize (white),,0.108108108,0.464285714
+320,Somalia,Retail,Baidoa,Maize (white),,0.107142857,0.409090909
+321,Somalia,Retail,Hargeisa,Maize (white),,0,-0.058823529
+322,Somalia,Retail,Borama,Maize (white),,-0.066666667,-0.066666667
+323,Somalia,Retail,Buale,Maize (white),,0.15625,0.608695652
+324,Somalia,Retail,Galkayo,Maize (white),,-0.068181818,-0.088888889
+325,Somalia,Retail,Hudur,Maize (white),,-0.211538462,-0.023809524
+326,Somalia,Retail,Kismayo,Maize (white),,0.405405405,0.485714286
+327,Somalia,Retail,Marka,Maize (white),,0.380952381,0.074074074
+328,Somalia,Retail,Mogadishu,Maize (white),,0.125,0.161290323
+329,Somalia,Retail,Qorioley,Maize (white),,0.294117647,0.1
+330,South Africa,Wholesale,Randfontein,Maize (white),,-0.222222222,-0.263157895
+331,South Sudan,Retail,Aweil,Maize (white),,0.551724138,0.184210526
+332,South Sudan,Retail,Bor,Maize (white),,0.088888889,0
+333,South Sudan,Retail,Gogrial,Maize (white),,0.513513514,0.076923077
+334,South Sudan,Retail,Juba,Maize (white),,1.136363636,1.41025641
+335,Togo,Retail,LomÃ©,Maize (white),,0,-0.125
+336,Togo,Retail,Korbongou,Maize (white),,0.047619048,0.1
+337,Togo,Retail,Kara,Maize (white),,0.173913044,0.038461538
+338,Togo,Retail,CinkassÃ©,Maize (white),,0.222222222,0.047619048
+339,Togo,Retail,Anie,Maize (white),,0.105263158,-0.086956522
+340,South Sudan,Retail,Rumbek,Maize (white),,0.666666667,0.086956522
+341,South Sudan,Retail,Torit,Maize (white),,0.358974359,0.261904762
+342,South Sudan,Retail,Wau,Maize (white),,0.45,0.318181818
+343,South Sudan,Retail,Yambio,Maize (white),,1.111111111,0.461538462
+344,Togo,Retail,Amegnran,Maize (white),,0.045454545,-0.148148148
+345,Zambia,Retail,National Average,Maize (white),,-0.366666667,-0.095238095
+346,Mexico,Wholesale,Guadalajara,Maize (white),,-0.103448276,-0.103448276
+347,Mexico,Wholesale,CuliacÃ¡n,Maize (white),,-0.129032258,0
+348,Mexico,Wholesale,Puebla,Maize (white),,-0.032258065,-0.032258065
+349,Mexico,Wholesale,Mexico City,Maize (white),,-0.205882353,-0.228571429
+350,Philippines,Wholesale,Davao City,Maize (white flour),,-0.125,-0.16
+351,Philippines,Retail,Davao City,Maize (white flour),,0.070175439,0.033898305
+352,Philippines,Wholesale,Cebu,Maize (white flour),,0.105263158,0.166666667
+353,Philippines,Retail,Cebu,Maize (white flour),,0.157894737,0
+354,Mexico,Wholesale,Xalapa,Maize (white),,-0.096774194,-0.034482759
+355,Philippines,Retail,National Average,Maize (flour),,0.163636364,0.084745763
+356,Argentina,Wholesale,Rosario,Maize (yellow),,-0.2,-0.142857143
+357,Brazil,Wholesale,Mato Grosso,Maize (yellow),,-0.066666667,0.076923077
+358,Brazil,Wholesale,Federal District,Maize (yellow),,-0.133333333,0.083333333
+359,Bolivia,Wholesale,Trinidad,Maize (yellow),,0,0
+360,Bolivia,Wholesale,Santa Cruz,Maize (yellow),,-0.041666667,0.095238095
+361,Bolivia,Wholesale,Oruro,Maize (yellow),,0.1875,0.461538462
+362,Bolivia,Wholesale,La Paz,Maize (yellow),,0.171428571,0.28125
+363,Bolivia,Wholesale,Cochabamba,Maize (yellow),,0.137931035,0.222222222
+364,Brazil,Wholesale,ParanÃ¡,Maize (yellow),,-0.125,0
+365,Brazil,Wholesale,Rio Grande do Sul,Maize (yellow),,-0.117647059,0
+366,Chile,Wholesale,National Average,Maize (yellow),,-0.05,0.055555556
+367,Ecuador,Wholesale,Quito,Maize (yellow),,0.055555556,0.055555556
+368,Ecuador,Wholesale,Portoviejo,Maize (yellow),,-0.027777778,-0.027777778
+369,Ecuador,Wholesale,Guayaquil,Maize (yellow),,0.057142857,0.027777778
+370,Ecuador,Wholesale,Cuenca,Maize (yellow),,-0.028571429,-0.055555556
+371,Colombia,Wholesale,MedellÃ­n,Maize (yellow),,-0.146341463,-0.027777778
+372,Colombia,Wholesale,Cartagena,Maize (yellow),,0.142857143,0.290322581
+373,Colombia,Wholesale,BogotÃ¡,Maize (yellow),,0.111111111,0.176470588
+374,Philippines,Wholesale,National Average,Maize (yellow),,-0.073170732,0
+375,Guatemala,Wholesale,Guatemala City,Maize (yellow),,0.25,0.125
+376,Peru,Wholesale,Lima,Maize (yellow),,0.058823529,-0.027027027
+377,Philippines,Retail,National Average,Maize (yellow),,-0.098039216,-0.021276596
+378,Philippines,Retail,Davao City,Maize (yellow flour),,0,-0.018518519
+379,Philippines,Wholesale,Davao City,Maize (yellow flour),,-0.177777778,-0.195652174
+380,Cabo Verde,Retail,Santiago,Maize (yellow),,-0.046511628,-0.023809524
+381,Cabo Verde,Retail,S.AntÃ£o,Maize (yellow),,0.023255814,0.1
+382,South Africa,Wholesale,Randfontein,Maize (yellow),,-0.222222222,-0.222222222
+383,Philippines,Wholesale,South Cotabato,Maize (yellow),,0.130434783,-0.133333333
+384,Philippines,Retail,MetroManila,Maize (yellow flour),,0.2,0.181818182
+385,Philippines,Retail,National Average,Maize (yellow flour),,0,0
+386,Botswana,Retail,National Average,Maize meal,,-0.064516129,-0.016949153
+387,Eswatini,Retail,Hhohho,Maize meal,,-0.107692308,-0.147058824
+388,Namibia,Retail,Katima,Maize meal,,-0.246753247,-0.15942029
+389,Namibia,Retail,Gobabis,Maize meal,,-0.246753247,-0.301204819
+390,Eswatini,Retail,Shiselweni,Maize meal,,-0.171428571,-0.216216216
+391,Eswatini,Retail,National average,Maize meal,,-0.177419355,-0.163934426
+392,Eswatini,Retail,Lubombo,Maize meal,,-0.148148148,-0.115384615
+393,Eswatini,Retail,Manzini,Maize meal,,-0.245614035,-0.173076923
+394,Zimbabwe,Retail,Mash central,Maize meal,,0.487179487,-0.301204819
+395,Zimbabwe,Retail,Manicaland,Maize meal,,0.523809524,-0.189873418
+396,Zimbabwe,Retail,Harare,Maize meal,,-0.3,-0.151515152
+397,Namibia,Retail,Keetmanshoop,Maize meal,,-0.169014085,-0.202702703
+398,Namibia,Retail,Mariental,Maize meal,,-0.166666667,-0.183673469
+399,Namibia,Retail,Oshakati,Maize meal,,-0.235294118,-0.287671233
+400,Namibia,Retail,Otjiwarongo,Maize meal,,-0.264367816,-0.255813954
+401,Namibia,Retail,Swakopmund,Maize meal,,-0.193181818,-0.211111111
+402,Namibia,Retail,Windhoek,Maize meal,,-0.195402299,-0.230769231
+403,Zimbabwe,Retail,Bulawayo,Maize meal,,0.025641026,0.290322581
+404,Zimbabwe,Retail,Midlands,Maize meal,,1.375,1.96875
+405,Zimbabwe,Retail,Mat south,Maize meal,,0.125,0.5
+406,Zimbabwe,Retail,Mat north,Maize meal,,1.225,1.342105263
+407,Zimbabwe,Retail,Masvingo,Maize meal,,-0.35,-0.235294118
+408,Zimbabwe,Retail,Mash west,Maize meal,,0.025641026,0.212121212
+409,Haiti,Retail,Les Cayes,Maize meal (local),,-0.252631579,0.14516129
+410,Haiti,Retail,Jeremie,Maize meal (local),,0.12244898,0.078431373
+411,Zimbabwe,Retail,Mash east,Maize meal,,0.56097561,1
+412,South Africa,Retail,National Average,Maize meal,,-0.106382979,-0.052631579
+413,Haiti,Retail,Cap Haitien,Maize meal,,0.034146341,0.316770186
+414,Haiti,Retail,Hinche,Maize meal,,-0.036458333,-0.056122449
+415,Haiti,Retail,Jacmel,Maize meal,,-0.063414634,0.103448276
+416,Haiti,Retail,Ouanaminthe,Maize meal,,0.022099448,0.275862069
+417,Haiti,Retail,Port-au-Prince,Maize meal,,-0.079207921,0.155279503
+418,Kazakhstan,Retail,National Average,Milk,,-0.018181818,0
+419,Kazakhstan,Retail,Kostanay,Milk,,-0.11627907,-0.095238095
+420,India,Retail,Ahmedabad,Milk,,-0.054794521,0
+421,India,Retail,Bengaluru,Milk,,0,-0.038461538
+422,India,Retail,Bhopal,Milk,,-0.059701493,-0.086956522
+423,India,Retail,Chennai,Milk,,-0.05,0.075471698
+424,India,Retail,Mumbai,Milk,,-0.016949153,-0.064516129
+425,India,Retail,New Delhi,Milk,,-0.016129032,0
+426,India,Retail,Patna,Milk,,-0.033898305,-0.05
+427,Kazakhstan,Retail,Almaty,Milk,,-0.03125,-0.046153846
+428,Somalia,Retail,Mogadishu,Milk,,0.036363636,0
+429,Tunisia,Retail,National Average,Milk,,0,0.054054054
+430,Somalia,Retail,Galkayo,Milk (Camel),,0.23364486,0.03125
+431,South Africa,Retail,National Average,Milk,,-0.08,-0.089108911
+432,Argentina,Retail,Greater Buenos Aires,Milk,,-0.035714286,-0.181818182
+433,Georgia,Retail,National Average,Milk,,-0.068181818,-0.127659575
+434,Saudi Arabia,Retail,National Average,Milk,,-0.008264463,-0.008264463
+435,Japan,Retail,Tokyo,Milk,,-0.005025126,0.03125
+436,Egypt,Retail,National Average,Milk,,0.022222222,0.095238095
+437,Japan,Retail,Osaka,Milk,,0,0.064516129
+438,Mongolia,Retail,Selenge,Milk,,0.567567568,-0.033333333
+439,Azerbaijan,Retail,National Average,Milk,,0.039215686,0.06
+440,Mongolia,Retail,Bayan-Ulgii,Milk,,0,-0.204301075
+441,Mongolia,Retail,Dornod,Milk,,0.181818182,-0.103448276
+442,Russian Federation,Retail,National Average,Milk,,-0.08988764,-0.058139535
+443,Occupied Palestinian Territory,Retail,West Bank,Milk,,-0.024630542,0.010204082
+444,Occupied Palestinian Territory,Retail,Gaza Strip,Milk,,-0.026315789,-0.031413613
+445,Mongolia,Retail,Uvurkhangai,Milk,,0.581081081,0.103773585
+446,Israel,Retail,National Average,Milk,,-0.01183432,0.04375
+447,Mongolia,Retail,Ulaanbaatar,Milk,,0.375,-0.014925373
+448,Bolivia,Retail,Oruro,Milk,,0,0
+449,Bolivia,Retail,Santa Cruz,Milk,,0,0
+450,Bolivia,Retail,Sucre,Milk,,0,0
+451,Bolivia,Retail,Tarija,Milk,,0,0
+452,Bolivia,Retail,Trinidad,Milk,,0,0
+453,Angola,Retail,Luanda,Milk (powder),,-0.051657244,-0.303678984
+454,Chad,Retail,Abeche,Millet,,0.142857143,0.333333333
+455,Chad,Retail,Moundou,Millet,,0.4,0.25
+456,Ghana,Wholesale,Kumasi,Millet,,0.547619048,0.477272727
+457,Ghana,Wholesale,Bolgatanga,Millet,,0.192307692,-0.114285714
+458,Ghana,Wholesale,Accra,Millet,,-0.055555556,-0.15
+459,Chad,Retail,Sarh,Millet,,0.1875,0.583333333
+460,Chad,Retail,N'Djamena,Millet,,0.297297297,0.411764706
+461,Chad,Retail,Moussoro,Millet,,0.393939394,0.210526316
+462,Ghana,Wholesale,Tamale,Millet,,0.060606061,0
+463,Namibia,Retail,Swakopmund,Millet,,-0.161904762,-0.161904762
+464,Ghana,Wholesale,Techiman,Millet,,0.066666667,-0.17948718
+465,Namibia,Retail,Oshakati,Millet,,0.049180328,-0.17948718
+466,Namibia,Retail,Windhoek,Millet,,-0.066666667,-0.08411215
+467,Niger,Retail,Zinder,Millet,,0.285714286,0.161290323
+468,Niger,Retail,Tillaberi,Millet,,0.222222222,0.047619048
+469,Niger,Retail,Niamey,Millet,,0.166666667,-0.045454545
+470,Niger,Retail,Maradi,Millet,,0.2,0.058823529
+471,Niger,Retail,Agadez,Millet,,0.083333333,-0.025
+472,Niger,Retail,Dosso,Millet,,0.176470588,0.111111111
+473,Senegal,Retail,Kaolack,Millet,,-0.027027027,0.161290323
+474,Senegal,Retail,Fatick,Millet,,0.069767442,0.15
+475,Senegal,Retail,Diourbel,Millet,,0,0.083333333
+476,Nigeria,Wholesale,Giwa,Millet,,0.133333333,0
+477,Nigeria,Wholesale,Ibadan,Millet,,0.081081081,-0.047619048
+478,Nigeria,Wholesale,Kano,Millet,,0.166666667,0.166666667
+479,Nigeria,Wholesale,Kaura Namoda,Millet,,0.222222222,-0.029411765
+480,Nigeria,Wholesale,Lagos,Millet,,0.075,0.228571429
+481,Nigeria,Wholesale,Maiduguri,Millet,,0.275862069,0.121212121
+482,Senegal,Retail,Dakar,Millet,,-0.130434783,-0.024390244
+483,Sudan,Wholesale,El Gedarif,Millet,,0.603174603,1.14893617
+484,Sudan,Wholesale,Al-Fashir,Millet,,0.65625,1.409090909
+485,Senegal,Retail,Kolda,Millet,,0.025,0.108108108
+486,Senegal,Retail,Louga,Millet,,0,0.162162162
+487,Senegal,Retail,Matam,Millet,,0,0.069767442
+488,Senegal,Retail,SaintLouis,Millet,,0.065217391,0.166666667
+489,Senegal,Retail,Tambacounda,Millet,,0.090909091,0.028571429
+490,Senegal,Retail,Thies,Millet,,0.052631579,0.111111111
+491,Senegal,Retail,Zguinchor,Millet,,-0.086956522,-0.023255814
+492,Sudan,Wholesale,Al-Damazin,Millet,,0.537037037,1.184210526
+493,Yemen,Retail,Hodeidah,Millet,,-0.313333333,-0.35625
+494,Yemen,Retail,Hajjah,Millet,,-0.083870968,-0.149700599
+495,Yemen,Retail,Hadramout,Millet,,0.02166065,0.63583815
+496,Sudan,Wholesale,El Obeid,Millet,,0.636363636,1.571428571
+497,Sudan,Wholesale,Kadugli,Millet,,0.152941177,0.324324324
+498,Sudan,Wholesale,Khartoum,Millet,,0.683544304,1.714285714
+499,Sudan,Wholesale,Nyala,Millet,,1.072727273,1.326530612
+500,Sudan,Wholesale,Port Sudan,Millet,,0.852941177,1.06557377
+501,Yemen,Retail,Dhamar,Millet,,0.284916201,-0.025423729
+502,Burkina Faso,Wholesale,Bobo Dioulasso,Millet,,0.321428571,-0.026315789
+503,Burkina Faso,Wholesale,Dori,Millet,,0.064516129,-0.029411765
+504,Burkina Faso,Wholesale,DÃ©dougou,Millet,,0.125,0.038461538
+505,Burkina Faso,Wholesale,Fada N'gourma,Millet,,0.034482759,-0.032258065
+506,Burkina Faso,Wholesale,Kongoussi,Millet,,-0.068965517,-0.1
+507,Burkina Faso,Wholesale,Nouna,Millet,,0.227272727,0.038461538
+508,Burkina Faso,Wholesale,Ouagadougou,Millet,,0.192307692,0.068965517
+509,Burkina Faso,Wholesale,Tenkodogo,Millet,,0.166666667,0.037037037
+510,Mali,Wholesale,Bamako,Millet,,0.173913044,0.038461538
+511,Mali,Wholesale,Gao,Millet,,0.37037037,0.275862069
+512,Mali,Wholesale,Kayes,Millet,,-0.0625,-0.032258065
+513,Mali,Wholesale,Mopti,Millet,,0,-0.068965517
+514,Mali,Wholesale,Sikasso,Millet,,0.08,-0.068965517
+515,Mali,Wholesale,SÃ©gou,Millet,,0,-0.166666667
+516,Mali,Wholesale,Tombouctou,Millet,,0.057142857,-0.026315789
+517,Niger,Wholesale,Agadez,Millet,,0.057142857,0.027777778
+518,Niger,Wholesale,Dosso,Millet,,0.275862069,-0.026315789
+519,Niger,Wholesale,Maradi,Millet,,0.275862069,0.275862069
+520,Niger,Wholesale,Niamey,Millet,,0.151515152,0.055555556
+521,Niger,Wholesale,Tillaberi,Millet,,0.088235294,-0.026315789
+522,Kyrgyzstan,Retail,Batken,Mutton meat,,-0.085828343,-0.085828343
+523,Niger,Wholesale,Zinder,Millet,,0.275862069,0.121212121
+524,Azerbaijan,Retail,National Average,Mutton meat,,0.048048048,0.051204819
+525,Mongolia,Retail,Dornod,Mutton meat,,0.058461538,-0.049723757
+526,Mongolia,Retail,Bayan-Ulgii,Mutton meat,,0.095833333,-0.198170732
+527,Kyrgyzstan,Retail,Osh,Mutton meat,,-0.051689861,0.01059322
+528,Kyrgyzstan,Retail,National Average,Mutton meat,,0.050458716,0.033860045
+529,Kyrgyzstan,Retail,Naryn,Mutton meat,,0.046666667,0.021691974
+530,Kyrgyzstan,Retail,Jalal-Abad,Mutton meat,,-0.05988024,-0.020790021
+531,Kyrgyzstan,Retail,Bishkek,Mutton meat,,0.111650485,0.055299539
+532,Yemen,Retail,Hadramout,Mutton meat,,0.024617997,0.073843416
+533,Occupied Palestinian Territory,Retail,West Bank,Olive Oil,,-0.077008929,-0.145661157
+534,Occupied Palestinian Territory,Retail,Gaza Strip,Olive Oil,,-0.042696629,-0.059602649
+535,Yemen,Retail,Hodeidah,Mutton meat,,0.010317788,0.256673511
+536,Yemen,Retail,Hajjah,Mutton meat,,0.169007264,0.494736842
+537,Mongolia,Retail,Selenge,Mutton meat,,0.303278689,-0.114206128
+538,Mongolia,Retail,Ulaanbaatar,Mutton meat,,0.284210526,-0.010810811
+539,Mongolia,Retail,Uvurkhangai,Mutton meat,,0.345833333,-0.032934132
+540,Yemen,Retail,Dhamar,Mutton meat,,0.035327367,0.222469411
+541,Guinea,Retail,Conakry,Palm Oil,,0,0.023255814
+542,Yemen,Retail,Hodeidah,Onions,,-0.305,0.323809524
+543,Yemen,Retail,Hajjah,Onions,,-0.325301205,0.05
+544,Yemen,Retail,Hadramout,Onions,,-0.14973262,0.766666667
+545,Yemen,Retail,Dhamar,Onions,,-0.399014778,0
+546,India,Retail,Chennai,Onions,,-0.591549296,0.208333333
+547,India,Retail,Mumbai,Onions,,-0.549019608,0.84
+548,India,Retail,New Delhi,Onions,,-0.635416667,0.166666667
+549,India,Retail,Patna,Onions,,-0.722222222,0.041666667
+550,Sierra Leone,Retail,Bo,Palm Oil,,0.404040404,0.544444444
+551,Sierra Leone,Retail,Freetown,Palm Oil,,0.366972477,0.366972477
+552,Sierra Leone,Retail,Kailahun,Palm Oil,,0.404040404,0.61627907
+553,Sierra Leone,Retail,Kenema,Palm Oil,,0.313131313,0.262135922
+554,Sierra Leone,Retail,Koinadugu,Palm Oil,,0.288461539,0.410526316
+555,Tunisia,Retail,National Average,Pasta,,0,0
+556,Democratic Republic of the Congo,Retail,Bukavu,Plantains,,0,-0.072727273
+557,Democratic Republic of the Congo,Retail,Lubumbashi,Plantains,,0.003984064,0
+558,Chile,Retail,Santiago,Pork meat,,-0.073800738,-0.080586081
+559,Georgia,Retail,National Average,Pork meat,,-0.06916996,-0.028865979
+560,Philippines,Retail,Davao City,Pork meat with bones,,-0.031700288,-0.011764706
+561,Russian Federation,Retail,National Average,Pork meat,,-0.104761905,-0.113207547
+562,Philippines,Retail,Cebu,Pork meat with bones,,-0.086956522,-0.108490566
+563,Philippines,Retail,Iloilo,Pork meat with bones,,-0.057279236,-0.085648148
+564,Philippines,Retail,MetroManila,Pork meat with bones,,-0.027918782,0.002617801
+565,Philippines,Retail,National Average,Pork meat with bones,,-0.010638298,-0.010638298
+566,Philippines,Retail,Nueva Ecija,Pork meat with bones,,0.015384615,-0.08839779
+567,Philippines,Retail,South Cotabato,Pork meat with bones,,-0.002666667,0.024657534
+568,Argentina,Retail,Greater Buenos Aires,Potatoes,,0.085106383,0.085106383
+569,Armenia,Retail,National Average,Potatoes,,0.545454546,-0.15
+570,Belarus,Retail,Minsk,Potatoes,,0.157894737,0
+571,Azerbaijan,Retail,National Average,Potatoes,,0.078431373,0.057692308
+572,Belarus,Retail,National Average,Potatoes,,0.121212121,-0.159090909
+573,Bolivia,Retail,Santa Cruz,Potatoes,,-0.382352941,0.06779661
+574,Bolivia,Retail,Potosi,Potatoes,,-0.373493976,0.155555556
+575,Bolivia,Retail,Oruro,Potatoes,,-0.358024691,0.04
+576,Bolivia,Wholesale,Oruro,Potatoes,,-0.5,-0.155555556
+577,Bolivia,Wholesale,La Paz,Potatoes,,-0.4,-0.045454545
+578,Bolivia,Retail,La Paz,Potatoes,,-0.464646465,-0.053571429
+579,Bolivia,Wholesale,Cochabamba,Potatoes,,-0.46835443,0
+580,Bolivia,Wholesale,Santa Cruz,Potatoes,,-0.486842105,0
+581,Bolivia,Retail,Sucre,Potatoes,,-0.449438202,0.042553191
+582,Bolivia,Retail,Tarija,Potatoes,,-0.229166667,-0.139534884
+583,Bolivia,Wholesale,Trinidad,Potatoes,,-0.308641975,0.098039216
+584,Bolivia,Retail,Trinidad,Potatoes,,-0.262711864,0.048192771
+585,Cameroon,Retail,Bafoussam,Potatoes,,0.230769231,0.163636364
+586,Egypt,Retail,National Average,Potatoes,,-0.096774194,0.166666667
+587,Cameroon,Retail,YaundÃ©,Potatoes,,-0.072727273,-0.203125
+588,Cameroon,Retail,Douala,Potatoes,,0.048387097,0.048387097
+589,Cameroon,Retail,Bamenda,Potatoes,,0.125,0.184210526
+590,India,Retail,Mumbai,Potatoes,,0.175,0.342857143
+591,Georgia,Retail,National Average,Potatoes,,0.575,-0.073529412
+592,India,Retail,Chennai,Potatoes,,0.052631579,0.333333333
+593,India,Retail,New Delhi,Potatoes,,0.142857143,0.379310345
+594,India,Retail,Patna,Potatoes,,0,0.038461538
+595,Iraq,Retail,National Average,Potatoes,,0.043478261,0.043478261
+596,Kazakhstan,Retail,Almaty,Potatoes,,0.592592593,0.303030303
+597,Kazakhstan,Retail,Aktau,Potatoes,,0.454545455,0.230769231
+598,Japan,Retail,Tokyo,Potatoes,,0.074576271,0.049668874
+599,Japan,Retail,Osaka,Potatoes,,0.178217822,0.16286645
+600,Kyrgyzstan,Retail,Osh,Potatoes,,0.34375,0.228571429
+601,Kyrgyzstan,Retail,National Average,Potatoes,,0.814814815,0.289473684
+602,Kyrgyzstan,Retail,Naryn,Potatoes,,0.857142857,0.695652174
+603,Kyrgyzstan,Retail,Jalal-Abad,Potatoes,,0.176470588,0.081081081
+604,Kyrgyzstan,Retail,Bishkek,Potatoes,,1.076923077,0.317073171
+605,Kazakhstan,Retail,Kostanay,Potatoes,,0.380952381,0.16
+606,Kazakhstan,Retail,National Average,Potatoes,,0.44,0.24137931
+607,Kazakhstan,Wholesale,National Average,Potatoes,,0.272727273,0.272727273
+608,Kazakhstan,Retail,Nur-Sultan,Potatoes,,0.888888889,0.275
+609,Kyrgyzstan,Retail,Batken,Potatoes,,0.088235294,0.027777778
+610,Tajikistan,Retail,Khorugh,Potatoes,,0.685714286,0.311111111
+611,Tajikistan,Retail,Khatlon,Potatoes,,1.428571429,1.615384615
+612,Tajikistan,Retail,Dushanbe,Potatoes,,1.166666667,1.5
+613,South Africa,Retail,National Average,Potatoes,,0.058139535,0.034090909
+614,Mongolia,Retail,Bayan-Ulgii,Potatoes,,0,-0.279069767
+615,Mongolia,Retail,Dornod,Potatoes,,0.076923077,0.024390244
+616,Mongolia,Retail,Selenge,Potatoes,,0.117647059,0.085714286
+617,Mongolia,Retail,Ulaanbaatar,Potatoes,,0.206896552,-0.102564103
+618,Mongolia,Retail,Uvurkhangai,Potatoes,,0,-0.173913044
+619,Russian Federation,Retail,National Average,Potatoes,,0.5625,-0.107142857
+620,Chile,Retail,Santiago,Potatoes,,-0.071895425,-0.144578313
+621,Yemen,Retail,Hodeidah,Potatoes,,-0.089041096,-0.26519337
+622,Yemen,Retail,Hajjah,Potatoes,,-0.062893082,-0.255
+623,Yemen,Retail,Hadramout,Potatoes,,0.273809524,0.12631579
+624,Yemen,Retail,Dhamar,Potatoes,,-0.221518987,-0.297142857
+625,Tajikistan,Retail,Khujand,Potatoes,,0.148148148,0.347826087
+626,Tajikistan,Retail,Kurgonteppa,Potatoes,,0.25,0.52173913
+627,Tajikistan,Retail,National Average,Potatoes,,1.03030303,1.576923077
+628,Tajikistan,Retail,Sughd,Potatoes,,1.481481481,2.19047619
+629,Tunisia,Retail,National Average,Potatoes,,-0.132075472,-0.115384615
+630,Sierra Leone,Retail,Kailahun,Potatoes,,0.307692308,0.378378378
+631,Sierra Leone,Retail,Freetown,Potatoes,,0.227272727,0.14893617
+632,Sierra Leone,Retail,Kenema,Potatoes,,0.5,0.35
+633,Ecuador,Wholesale,Ambato,Potatoes,,-0.37254902,-0.407407407
+634,Ecuador,Wholesale,Cuenca,Potatoes,,-0.266666667,-0.323076923
+635,Ecuador,Wholesale,Guayaquil,Potatoes,,-0.37254902,-0.438596491
+636,Ecuador,Wholesale,Quito,Potatoes,,-0.413043478,-0.448979592
+637,Sierra Leone,Retail,Bo,Potatoes,,0.285714286,0.173913044
+638,Peru,Wholesale,Lima,Potatoes,,-0.666666667,-0.516129032
+639,Sierra Leone,Retail,Koinadugu,Potatoes,,0.214285714,0.243902439
+640,Bolivia,Wholesale,Cochabamba,Quinoa,,0,-0.164794008
+641,Peru,Retail,Lima,Potatoes (white),,-0.15,-0.089285714
+642,Cambodia,Wholesale,Kampot,Prawn,,-0.032655576,-0.088798607
+643,Cameroon,Retail,Bamenda,Rice,,0,-0.019417476
+644,Cameroon,Retail,Bafoussam,Rice,,0.037974684,0.051282051
+645,Brazil,Retail,SÃ£o Paulo,Rice,,-0.225,-0.225
+646,Japan,Retail,Tokyo,Radish,,0.09202454,0.210884354
+647,Japan,Retail,Osaka,Radish,,0.158536585,0.137724551
+648,Botswana,Retail,National Average,Rice,,-0.087378641,-0.104761905
+649,Bolivia,Wholesale,La Paz,Quinoa,,-0.008032129,0
+650,Cameroon,Retail,Douala,Rice,,0.012345679,0.108108108
+651,Cameroon,Retail,Garoua,Rice,,0,-0.023255814
+652,Cameroon,Retail,YaundÃ©,Rice,,0.064935065,0.078947368
+653,El Salvador,Retail,San Salvador,Rice,,0.112244898,0.112244898
+654,Eswatini,Retail,Shiselweni,Rice,,-0.178571429,-0.197674419
+655,Eswatini,Retail,National average,Rice,,-0.176470588,-0.230769231
+656,Eswatini,Retail,Manzini,Rice,,-0.193181818,-0.144578313
+657,Eswatini,Retail,Lubombo,Rice,,-0.188235294,-0.355140187
+658,El Salvador,Wholesale,San Salvador,Rice,,0.227848101,0.227848101
+659,Eswatini,Retail,Hhohho,Rice,,-0.154761905,-0.174418605
+660,Iraq,Retail,National Average,Rice,,0,-0.044025157
+661,India,Retail,Chennai,Rice,,-0.014084507,0.489361702
+662,India,Wholesale,Chennai,Rice,,-0.029850746,0.625
+663,India,Retail,Mumbai,Rice,,-0.046511628,-0.023809524
+664,India,Wholesale,Mumbai,Rice,,-0.057142857,-0.108108108
+665,India,Retail,New Delhi,Rice,,-0.041666667,-0.06122449
+666,India,Wholesale,New Delhi,Rice,,0,-0.026315789
+667,India,Wholesale,Patna,Rice,,-0.177777778,-0.195652174
+668,India,Retail,Patna,Rice,,-0.166666667,-0.183673469
+669,Indonesia,Retail,National Average,Rice,,-0.04040404,-0.020618557
+670,Israel,Retail,National Average,Rice,,-0.003389831,0.035211268
+671,Malawi,Retail,Lilongwe,Rice,,-0.15625,-0.1
+672,Malawi,Retail,Mzuzu,Rice,,0.049504951,0
+673,Mongolia,Retail,Ulaanbaatar,Rice,,-0.057971014,-0.015151515
+674,Mozambique,Retail,Maxixe,Rice,,-0.067567568,0.014705882
+675,Mozambique,Retail,Maputo,Rice,,0.404255319,0.178571429
+676,Mozambique,Retail,Manica,Rice,,0.446808511,0
+677,Mozambique,Retail,Gorongosa,Rice,,-0.088607595,-0.111111111
+678,Mozambique,Retail,Chokwe,Rice,,-0.088607595,-0.111111111
+679,Mozambique,Retail,Angonia,Rice,,0.17721519,0.148148148
+680,Mozambique,Retail,Montepuez,Rice,,0.031746032,0.015625
+681,Mozambique,Retail,Nampula,Rice,,0.857142857,0.56
+682,Mozambique,Retail,Ribaue,Rice,,0.025316456,0.025316456
+683,Namibia,Retail,Gobabis,Rice,,-0.139072848,-0.109589041
+684,Namibia,Retail,Swakopmund,Rice,,-0.21686747,-0.127516779
+685,Namibia,Retail,Otjiwarongo,Rice,,-0.264150943,-0.048780488
+686,Namibia,Retail,Oshakati,Rice,,-0.162561576,-0.154228856
+687,Namibia,Retail,Mariental,Rice,,-0.102040816,-0.102040816
+688,Namibia,Retail,Keetmanshoop,Rice,,0.114285714,0.026315789
+689,Namibia,Retail,Katima,Rice,,-0.076335878,-0.103703704
+690,Rwanda,Wholesale,Kigali,Rice,,-0.065217391,-0.033707865
+691,Namibia,Retail,Windhoek,Rice,,-0.044117647,-0.051094891
+692,Paraguay,Wholesale,AsunciÃ³n,Rice,,-0.074074074,-0.107142857
+693,Russian Federation,Retail,National Average,Rice,,0.036036036,0.08490566
+694,Rwanda,Wholesale,Ruhengeri,Rice,,-0.034090909,-0.234234234
+695,United Republic of Tanzania,Wholesale,Dar es Salaam,Rice,,0.104166667,0
+696,Uganda,Wholesale,Kampala,Rice,,-0.138297872,-0.15625
+697,Tunisia,Retail,National Average,Rice,,-0.019607843,0.041666667
+698,South Africa,Retail,National Average,Rice,,-0.185185185,-0.202898551
+699,Samoa,Retail,National Average,Rice,,-0.081818182,-0.12173913
+700,Zimbabwe,Retail,Manicaland,Rice,,0.553030303,0.952380952
+701,Uruguay,Wholesale,National Average,Rice,,0,-0.05
+702,Zimbabwe,Retail,Bulawayo,Rice,,0.787234043,1.423076923
+703,Zimbabwe,Retail,Harare,Rice,,0.335664336,0.854368932
+704,Zimbabwe,Retail,Mash central,Rice,,0.428571429,0.538461539
+705,Zimbabwe,Retail,Mash east,Rice,,0.580645161,0.96
+706,Zimbabwe,Retail,Mat south,Rice,,0.5,1.15625
+707,Zimbabwe,Retail,Mat north,Rice,,0.523809524,1.174757282
+708,Zimbabwe,Retail,Masvingo,Rice,,0.451612903,0.855670103
+709,Zimbabwe,Retail,Mash west,Rice,,-0.052631579,0.125
+710,Zimbabwe,Retail,Midlands,Rice,,0.378378378,1.060606061
+711,Thailand,Wholesale,Bangkok,Rice,,0.222222222,0.23943662
+712,Myanmar,Retail,Yangon,Rice,,0.162162162,0.162162162
+713,Bolivia,Retail,Santa Cruz,Rice,,0.010204082,0.015384615
+714,China,Wholesale,National Average,Rice,,-0.026086957,-0.104
+715,Bangladesh,Retail,Dhaka,Rice,,0.204545455,0.152173913
+716,Bangladesh,Wholesale,Dhaka,Rice,,0.236842105,0.236842105
+717,Cambodia,Wholesale,Phnom Penh,Rice,,-0.113636364,-0.113636364
+718,Cambodia,Wholesale,Kampong Chhnang,Rice,,-0.02173913,0
+719,Cambodia,Wholesale,Battambang,Rice,,-0.027027027,-0.181818182
+720,Cambodia,Wholesale,Banteay Meanchey,Rice,,-0.068181818,-0.023809524
+721,Japan,Retail,Osaka,Rice,,-0.008830022,0.041763341
+722,Japan,Retail,Tokyo,Rice,,-0.021929825,0.01826484
+723,Lao People's Democratic Republic,Retail,National Average,Rice,,-0.026315789,0.027777778
+724,Pakistan,Retail,Multan,Rice,,-0.035087719,-0.035087719
+725,Pakistan,Retail,Karachi,Rice,,0,0.036363636
+726,Pakistan,Retail,Lahore,Rice,,-0.0625,-0.0625
+727,Mexico,Wholesale,Mexico City,Rice,,-0.077922078,0.079847909
+728,Mexico,Wholesale,Guadalajara,Rice,,0.641791045,0.617647059
+729,Pakistan,Retail,Quetta,Rice,,0,0.029850746
+730,Nepal,Retail,Kathmandu,Rice,,0,-0.145833333
+731,Bolivia,Wholesale,Trinidad,Rice,,0,-0.2
+732,Chile,Retail,Santiago,Rice,,0,-0.092592593
+733,Bolivia,Wholesale,Santa Cruz,Rice,,-0.043478261,0.035294118
+734,Chile,Retail,Santiago,Rice,,0,-0.092592593
+735,Colombia,Retail,National Average,Rice,,0.197674419,0.211764706
+736,Costa Rica,Retail,National Average,Rice,,0.032,0.048780488
+737,Dominican Republic,Wholesale,Santo Domingo,Rice,,-0.084337349,-0.126436782
+738,Dominican Republic,Retail,Santo Domingo,Rice,,-0.09375,-0.112244898
+739,Panama,Wholesale,Panama City,Rice,,0.011627907,0
+740,Guatemala,Wholesale,Guatemala City,Rice,,0.106382979,0.106382979
+741,Nicaragua,Wholesale,Managua (oriental),Rice,,0.045454545,0.022222222
+742,Benin,Retail,Cotonou,Rice,,0.024096386,-0.022988506
+743,Benin,Retail,Natitingou,Rice (imported),,0.011764706,-0.033707865
+744,Benin,Retail,Parakou,Rice (imported),,0,-0.113402062
+745,Burkina Faso,Wholesale,Bobo Dioulasso,Rice (imported),,0.029850746,0
+746,Burkina Faso,Wholesale,Dori,Rice (imported),,0.050847458,0.033333333
+747,Burkina Faso,Wholesale,DÃ©dougou,Rice (imported),,0.016393443,-0.101449275
+748,Burkina Faso,Wholesale,Fada N'gourma,Rice (imported),,0.015625,0
+749,Burkina Faso,Wholesale,Kongoussi,Rice (imported),,0.016393443,-0.074626866
+750,Burkina Faso,Wholesale,Nouna,Rice (imported),,0.016393443,-0.101449275
+751,Burkina Faso,Wholesale,Ouagadougou,Rice (imported),,0.016949153,0
+752,Burkina Faso,Wholesale,Tenkodogo,Rice (imported),,0.043478261,0
+753,Liberia,Retail,Saclepea,Rice,,0.016949153,-0.032258065
+754,Liberia,Retail,Monrovia,Rice,,0.053571429,0
+755,Liberia,Retail,Buchanan,Rice,,-0.05,0
+756,Mauritania,Retail,Nouakchott,Rice,,-0.076190476,-0.093457944
+757,Mali,Wholesale,Gao,Rice,,0.122807018,0.066666667
+758,Mali,Wholesale,Kayes,Rice,,0.035714286,0.115384615
+759,Mali,Wholesale,Mopti,Rice,,0.018181818,0
+760,Mali,Wholesale,Sikasso,Rice,,0,-0.033898305
+761,Niger,Wholesale,Maradi,Rice,,0.119402985,0.119402985
+762,Niger,Retail,Dosso,Rice,,-0.011904762,-0.023529412
+763,Niger,Wholesale,Dosso,Rice,,0.067567568,0.215384615
+764,Niger,Wholesale,Agadez,Rice,,0.013513514,-0.025974026
+765,Niger,Retail,Agadez,Rice,,0.190476191,0.176470588
+766,Chad,Retail,N'Djamena,Rice,,-0.014925373,-0.083333333
+767,Cote d'Ivoire,Retail,Abidjan,Rice,,0,0.04
+768,Democratic Republic of the Congo,Retail,Goma,Rice,,0.066115702,0.112068966
+769,Ghana,Wholesale,Accra,Rice,,-0.188235294,-0.215909091
+770,Haiti,Retail,Cap Haitien,Rice,,-0.131313131,0.146666667
+771,Guinea,Retail,Conakry,Rice,,-0.04040404,-0.103773585
+772,Ghana,Wholesale,Techiman,Rice,,-0.214285714,-0.228070175
+773,Ghana,Wholesale,Tamale,Rice,,-0.111111111,0
+774,Ghana,Wholesale,Kumasi,Rice,,-0.108433735,-0.129411765
+775,Ghana,Wholesale,Bolgatanga,Rice,,-0.189655172,-0.203389831
+776,Mali,Wholesale,Gao,Rice,,0.061538462,0.045454545
+777,Mali,Wholesale,Bamako,Rice,,0.016949153,0
+778,Haiti,Retail,Jacmel,Rice,,0,0.4171123
+779,Haiti,Retail,Hinche,Rice,,-0.117857143,0.193236715
+780,Haiti,Retail,Jeremie,Rice,,0.081818182,0.226804124
+781,Haiti,Retail,Les Cayes,Rice,,-0.051886792,-0.028985507
+782,Haiti,Retail,Port-au-Prince,Rice,,-0.038277512,0.168604651
+783,Mali,Wholesale,Mopti,Rice ,,-0.036363636,-0.116666667
+784,Mali,Wholesale,Kayes,Rice,,0.029850746,0
+785,Sierra Leone,Retail,Koinadugu,Rice,,0.139240506,0.216216216
+786,Sierra Leone,Retail,Kenema,Rice,,0.051282051,0.108108108
+787,Sierra Leone,Retail,Kailahun,Rice,,0.307692308,0.416666667
+788,Sierra Leone,Retail,Freetown,Rice,,0.337349398,0.441558442
+789,Mali,Wholesale,Sikasso,Rice,,0.017857143,-0.033898305
+790,Mali,Wholesale,SÃ©gou,Rice,,-0.033898305,0
+791,Mali,Wholesale,Tombouctou,Rice,,-0.035087719,-0.06779661
+792,Sierra Leone,Retail,Bo,Rice,,1.30769231,1.30769231
+793,Niger,Retail,Maradi,Rice,,0.065789474,0.094594595
+794,Niger,Wholesale,Niamey,Rice,,0.119402985,0.041666667
+795,Nigeria,Wholesale,Maiduguri,Rice,,-0.144736842,0.25
+796,Nigeria,Wholesale,Lagos,Rice,,-0.031055901,0.56
+797,Nigeria,Wholesale,Kaura Namoda,Rice,,0.047169811,0.193548387
+798,Nigeria,Wholesale,Ibadan,Rice,,-0.082089552,0.28125
+799,Niger,Wholesale,Zinder,Rice,,0.013513514,-0.013157895
+800,Niger,Retail,Tillaberi,Rice,,0.023809524,0.011764706
+801,Niger,Wholesale,Tillaberi,Rice,,0.029850746,-0.041666667
+802,Niger,Retail,Niamey,Rice,,0.092105263,0.077922078
+803,Niger,Retail,Zinder,Rice,,-0.013157895,-0.025974026
+804,Nigeria,Wholesale,Giwa,Rice,,0.007936508,0.309278351
+805,Senegal,Retail,Dakar,Rice,,-0.016949153,-0.033333333
+806,Senegal,Retail,Diourbel,Rice,,0,0.02739726
+807,Senegal,Retail,Kaolack,Rice,,-0.024691358,0.012820513
+808,Senegal,Retail,Kolda,Rice,,0.039473684,0.067567568
+809,Senegal,Retail,Louga,Rice,,0,-0.028985507
+810,Senegal,Retail,Matam,Rice,,0.134328358,-0.025641026
+811,Senegal,Retail,SaintLouis,Rice,,0,-0.028985507
+812,Senegal,Retail,Tambacounda,Rice,,0,0.076923077
+813,Senegal,Retail,Thies,Rice,,0.194029851,0.15942029
+814,Senegal,Retail,Zguinchor,Rice,,0.134328358,0
+815,Somalia,Retail,Belet Weyne,Rice,,0.26,0.285714286
+816,Somalia,Retail,Baidoa,Rice,,0.117647059,0.096153846
+817,Somalia,Retail,Borama,Rice,,0.117647059,0.266666667
+818,Somalia,Retail,Bossaso,Rice,,0.061538462,-0.028169014
+819,Somalia,Retail,Buale,Rice,,-0.033333333,-0.064516129
+820,Somalia,Retail,Galkayo,Rice,,0,-0.026315789
+821,Somalia,Retail,Hargeisa,Rice,,0.105263158,0.105263158
+822,Somalia,Retail,Hudur,Rice,,-0.181818182,-0.073529412
+823,Somalia,Retail,Kismayo,Rice,,0.127659575,0.177777778
+824,Somalia,Retail,Lasanod,Rice,,0.149253731,0.166666667
+825,Somalia,Retail,Mogadishu,Rice,,0,-0.090909091
+826,Somalia,Retail,Marka,Rice,,0.04,-0.054545455
+827,Togo,Retail,Amegnran,Rice,,-0.099009901,-0.107843137
+828,Togo,Retail,Anie,Rice,,0.013333333,0
+829,Togo,Retail,LomÃ©,Rice,,0.119402985,0.102941177
+830,Togo,Retail,Korbongou,Rice,,0.092105263,0.077922078
+831,Togo,Retail,Kara,Rice,,0,-0.012987013
+832,Togo,Retail,CinkassÃ©,Rice,,-0.037974684,-0.05
+833,Cabo Verde,Retail,S.Vincente,Rice,,0.012820513,0
+834,Cabo Verde,Retail,S.AntÃ£o,Rice,,-0.022988506,-0.034090909
+835,Cabo Verde,Retail,Santiago,Rice,,0,-0.010869565
+836,Ecuador,Wholesale,Cuenca,Rice,,0.018867925,0.028571429
+837,Ecuador,Wholesale,Guayaquil,Rice,,0.121621622,0.106666667
+838,Ecuador,Wholesale,Quito,Rice,,0,0
+839,Occupied Palestinian Territory,Retail,Gaza Strip,Rice,,0,0.031818182
+840,Angola,Retail,Luanda,Rice,,-0.055555556,-0.260869565
+841,Peru,Wholesale,Lima,Rice,,0.06557377,0.25
+842,Peru,Retail,Lima,Rice,,0.012658228,0
+843,Occupied Palestinian Territory,Retail,West Bank,Rice,,-0.004504505,0
+844,Egypt,Retail,National Average,Rice,,0.018691589,0.068627451
+845,Italy,Wholesale,National Average,Rice,,0.219512195,0.020408163
+846,Philippines,Retail,National Average,Rice,,0.041666667,0.013513514
+847,Philippines,Wholesale,National Average,Rice,,0.075757576,0.028985507
+848,Honduras,Wholesale,Tegucigalpa,Rice,,0,-0.013888889
+849,Honduras,Wholesale,San Pedro Sula,Rice,,0.058823529,0.074626866
+850,Argentina,Retail,Greater Buenos Aires,Rice,,0.130434783,0.050505051
+851,Sri Lanka,Retail,Colombo,Rice,,0,0.14893617
+852,Botswana,Retail,National Average,Samp,,-0.076923077,-0.064935065
+853,Yemen,Retail,Hajjah,Sorghum,,-0.026315789,-0.207142857
+854,Yemen,Retail,Hadramout,Sorghum,,0.183574879,0.225
+855,Yemen,Retail,Dhamar,Sorghum,,-0.083969466,-0.183673469
+856,Occupied Palestinian Territory,Retail,Gaza Strip,Semolina,,-0.050724638,0
+857,Occupied Palestinian Territory,Retail,West Bank,Semolina,,-0.033057851,0
+858,Tunisia,Retail,National Average,Semolina,,0,0.066666667
+859,Benin,Retail,Cotonou,Sorghum,,0.092592593,-0.169014085
+860,Benin,Retail,Natitingou,Sorghum,,-0.073170732,-0.025641026
+861,Benin,Retail,Parakou,Sorghum,,-0.063829787,-0.137254902
+862,Chad,Retail,Sarh,Sorghum,,0.090909091,0.142857143
+863,Chad,Retail,N'Djamena,Sorghum,,-0.108108108,0.375
+864,Chad,Retail,Moundou,Sorghum,,-0.243243243,0.076923077
+865,Chad,Retail,Abeche,Sorghum,,0.086956522,0.190476191
+866,Haiti,Retail,Jacmel,Sorghum,,-0.121546961,-0.14973262
+867,Haiti,Retail,Hinche,Sorghum,,-0.320441989,0
+868,Haiti,Retail,Les Cayes,Sorghum,,-0.226415094,0.016528926
+869,Haiti,Retail,Jeremie,Sorghum,,-0.122222222,-0.05952381
+870,Ghana,Wholesale,Accra,Sorghum,,-0.088888889,-0.108695652
+871,Ghana,Wholesale,Bolgatanga,Sorghum,,0.142857143,-0.04
+872,Ghana,Wholesale,Kumasi,Sorghum,,0.55,0.512195122
+873,Ghana,Wholesale,Tamale,Sorghum,,0.03125,0
+874,Ghana,Wholesale,Techiman,Sorghum,,-0.137931035,-0.242424242
+875,Haiti,Retail,Cap Haitien,Sorghum,,-0.171875,-0.14973262
+876,Haiti,Retail,Port-au-Prince,Sorghum,,-0.124223603,0.068181818
+877,Namibia,Retail,Windhoek,Sorghum,,-0.008474576,-0.103448276
+878,Namibia,Retail,Katima,Sorghum,,0.08,0.062295082
+879,Namibia,Retail,Oshakati,Sorghum,,-0.009090909,-0.15503876
+880,Namibia,Retail,Swakopmund,Sorghum,,-0.207207207,-0.221238938
+881,Niger,Retail,Agadez,Sorghum,,0,0
+882,Niger,Retail,Dosso,Sorghum,,0.108108108,0
+883,Niger,Retail,Maradi,Sorghum,,0.214285714,0.172413793
+884,Niger,Retail,Niamey,Sorghum,,0.176470588,-0.024390244
+885,Niger,Retail,Tillaberi,Sorghum,,0.055555556,-0.025641026
+886,South Sudan,Retail,Aweil,Sorghum,,1.36,0.475
+887,Niger,Retail,Zinder,Sorghum,,0.25,0.153846154
+888,Senegal,Retail,Dakar,Sorghum,,-0.108108108,-0.029411765
+889,Senegal,Retail,Matam,Sorghum,,0.378378378,-0.019230769
+890,Togo,Retail,Anie,Sorghum,,0.027027027,0.1875
+891,Togo,Retail,CinkassÃ©,Sorghum,,0.222222222,0.047619048
+892,Togo,Retail,Kara,Sorghum,,0.366666667,0.28125
+893,Togo,Retail,Korbongou,Sorghum,,-0.12,-0.083333333
+894,Togo,Retail,LomÃ©,Sorghum,,0.264705882,-0.022727273
+895,Yemen,Retail,Hodeidah,Sorghum,,0.00990099,-0.366459627
+896,Sudan,Wholesale,El Gedarif,Sorghum,,1.230769231,1.416666667
+897,Sudan,Wholesale,Dongola,Sorghum,,1.265306122,2.264705882
+898,Sudan,Wholesale,Al-Fashir,Sorghum,,0.911111111,1.529411765
+899,South Sudan,Retail,Gogrial,Sorghum,,0.961538462,-0.072727273
+900,South Sudan,Retail,Bor,Sorghum,,0.211538462,0
+901,South Sudan,Retail,Juba,Sorghum,,0.533333333,0.916666667
+902,South Sudan,Retail,Rumbek,Sorghum,,0.234042553,-0.134328358
+903,South Sudan,Retail,Torit,Sorghum,,0.25,-0.2
+904,South Sudan,Retail,Wau,Sorghum,,0.522727273,0.425531915
+905,Sudan,Wholesale,Al-Damazin,Sorghum,,0.533333333,1.15625
+906,Burkina Faso,Wholesale,Fada N'gourma,Sorghum,,0.15,0.045454545
+907,Burkina Faso,Wholesale,Dori,Sorghum,,0.173913044,-0.068965517
+908,Burkina Faso,Wholesale,Bobo Dioulasso,Sorghum,,0.1,-0.153846154
+909,Burkina Faso,Wholesale,DÃ©dougou,Sorghum,,0.3125,0.166666667
+910,El Salvador,Wholesale,San Salvador,Sorghum,,-0.119047619,0.027777778
+911,Sudan,Wholesale,El Obeid,Sorghum,,1.139534884,1.628571429
+912,Sudan,Wholesale,Kadugli,Sorghum,,0.702702703,1.625
+913,Sudan,Wholesale,Khartoum,Sorghum,,1.046511628,1.588235294
+914,Sudan,Wholesale,Port Sudan,Sorghum,,1.186046512,1.41025641
+915,El Salvador,Retail,San Salvador,Sorghum,,0,0
+916,Burkina Faso,Wholesale,Nouna,Sorghum,,0.4,0.05
+917,Burkina Faso,Wholesale,Ouagadougou,Sorghum,,0.210526316,0
+918,Burkina Faso,Wholesale,Tenkodogo,Sorghum,,0,-0.045454545
+919,Burkina Faso,Wholesale,Kongoussi,Sorghum,,0,-0.071428571
+920,Mali,Wholesale,Bamako,Sorghum,,0.333333333,-0.04
+921,Mali,Wholesale,Gao,Sorghum,,0,0
+922,Mali,Wholesale,Kayes,Sorghum,,0.08,-0.035714286
+923,Mali,Wholesale,Mopti,Sorghum,,0,-0.142857143
+924,Mali,Wholesale,Sikasso,Sorghum,,0.235294118,0
+925,Mali,Wholesale,SÃ©gou,Sorghum,,0.05,-0.125
+926,Somalia,Retail,Belet Weyne,Sorghum,,-0.265306122,0.028571429
+927,Somalia,Retail,Baidoa,Sorghum,,-0.304347826,-0.111111111
+928,Mali,Wholesale,Tombouctou,Sorghum,,0.023809524,0.131578947
+929,Niger,Wholesale,Agadez,Sorghum,,0.028571429,0.028571429
+930,Niger,Wholesale,Dosso,Sorghum,,0.310344828,0.117647059
+931,Niger,Wholesale,Maradi,Sorghum,,0.115384615,0.035714286
+932,Niger,Wholesale,Niamey,Sorghum,,0.111111111,-0.090909091
+933,Niger,Wholesale,Tillaberi,Sorghum,,0.178571429,0.064516129
+934,Niger,Wholesale,Zinder,Sorghum,,0.259259259,0.172413793
+935,Ethiopia,Wholesale,Addis Ababa,Sorghum,,-0.255813954,0.185185185
+936,Nicaragua,Wholesale,Managua (oriental),Sorghum,,-0.283018868,0.027027027
+937,Ethiopia,Wholesale,Addis Ababa,Sorghum,,-0.223880597,-0.018867925
+938,Somalia,Retail,Borama,Sorghum,,0.285714286,-0.1
+939,Somalia,Retail,Bossaso,Sorghum,,0.018018018,0.164948454
+940,Somalia,Retail,Dinsoor,Sorghum,,-0.15,1.125
+941,Somalia,Retail,Galkayo,Sorghum,,-0.136363636,-0.155555556
+942,Somalia,Retail,Hargeisa,Sorghum,,-0.153846154,-0.214285714
+943,Somalia,Retail,Hudur,Sorghum,,-0.34,-0.108108108
+944,Somalia,Retail,Marka,Sorghum,,-0.305555556,-0.107142857
+945,Somalia,Retail,Mogadishu,Sorghum,,-0.096774194,-0.066666667
+946,Botswana,Retail,National Average,Sorghum,,-0.125,-0.125
+947,Cambodia,Wholesale,Kampong Cham,Soya beans,,-0.011627907,-0.011627907
+948,Cambodia,Wholesale,Banteay Meanchey,Soya beans,,0,-0.01754386
+949,Nigeria,Wholesale,Kano,Sorghum,,0,0.25
+950,Nigeria,Wholesale,Giwa,Sorghum,,0.375,0.434782609
+951,Nigeria,Wholesale,Ibadan,Sorghum,,0.027777778,0.088235294
+952,Nigeria,Wholesale,Kaura Namoda,Sorghum,,0,-0.0625
+953,Nigeria,Wholesale,Lagos,Sorghum,,0.078947368,0.078947368
+954,Nigeria,Wholesale,Maiduguri,Sorghum,,0.24,-0.03125
+955,Somalia,Retail,Lasanod,Sorghum,,0.08045977,0.105882353
+956,Cambodia,Wholesale,Phnom Penh,Soya beans,,-0.011627907,-0.011627907
+957,Argentina,Retail,Greater Buenos Aires,Sugar,,0.347222222,0.2125
+958,Bolivia,Retail,La Paz,Sugar,,0,0
+959,Egypt,Retail,National Average,Sugar,,0.022988506,0.098765432
+960,Bolivia,Retail,Trinidad,Sugar,,0.013333333,-0.012987013
+961,Bolivia,Retail,Tarija,Sugar,,0,0
+962,Bolivia,Retail,Santa Cruz,Sugar,,0.01369863,0.01369863
+963,Bolivia,Retail,Sucre,Sugar,,0.085365854,0.072289157
+964,Bolivia,Retail,Potosi,Sugar,,0.032258065,0.032258065
+965,Bolivia,Retail,Oruro,Sugar,,0,-0.025
+966,Samoa,Retail,National Average,Sugar,,0,-0.090909091
+967,Japan,Retail,Tokyo,Sugar,,0,0.011049724
+968,Japan,Retail,Osaka,Sugar,,0.034883721,0.011363636
+969,Israel,Retail,National Average,Sugar,,-0.008,0.033333333
+970,India,Retail,Chennai,Sugar,,0.075471698,0.055555556
+971,India,Wholesale,Mumbai,Sugar,,-0.063829787,-0.063829787
+972,India,Retail,Mumbai,Sugar,,-0.01754386,-0.01754386
+973,India,Retail,New Delhi,Sugar,,-0.071428571,-0.087719298
+974,India,Wholesale,New Delhi,Sugar,,-0.117647059,-0.117647059
+975,India,Retail,Patna,Sugar,,-0.101694915,-0.14516129
+976,Botswana,Retail,National Average,Sugar,,-0.083969466,-0.117647059
+977,Saudi Arabia,Retail,National Average,Sugar,,0,0
+978,Tunisia,Retail,National Average,Sugar,,0.058823529,0.125
+979,Angola,Retail,Luanda,Sugar,,-0.063492063,-0.289156627
+980,South Africa,Retail,National Average,Sugar,,-0.192660551,-0.214285714
+981,Occupied Palestinian Territory,Retail,West Bank,Sugar,,0.021276596,0.054945055
+982,Occupied Palestinian Territory,Retail,Gaza Strip,Sugar,,-0.164556962,-0.12
+983,Colombia,Wholesale,Cartagena,Sugar,,-0.106060606,-0.169014085
+984,Colombia,Wholesale,BogotÃ¡,Sugar,,0,-0.042253521
+985,Colombia,Wholesale,Barranquilla,Sugar,,0.066666667,-0.058823529
+986,Mexico,Retail,Mexico City,Tortillas,,-0.114285714,-0.074626866
+987,Yemen,Retail,Hodeidah,Tomatoes,,0.025806452,-0.397727273
+988,Yemen,Retail,Hajjah,Tomatoes,,0.00625,-0.356
+989,Yemen,Retail,Hadramout,Tomatoes,,0.323383085,-0.014814815
+990,Yemen,Retail,Dhamar,Tomatoes,,0.326241135,-0.438438438
+991,Tunisia,Retail,National Average,Tomatoes,,1.097560976,0.387096774
+992,Iraq,Retail,National Average,Tomatoes,,-0.024691358,-0.288288288
+993,Egypt,Retail,National Average,Tomatoes,,0.136363636,0.470588235
+994,Samoa,Retail,National Average,Taro,,-0.115789474,0.063291139
+995,Ethiopia,Wholesale,Addis Ababa,Teff (mixed),,0.06185567,0.373333333
+996,Afghanistan,Retail,Kabul,Wheat,,0.322580645,0.366666667
+997,Yemen,Retail,Dhamar,Vegetable oil,,0.111111111,0.158940397
+998,Yemen,Retail,Hadramout,Vegetable oil,,0.166666667,0.555555556
+999,Yemen,Retail,Hajjah,Vegetable oil,,0.173387097,0.281938326
+1000,Yemen,Retail,Hodeidah,Vegetable oil,,0.153256705,0.180392157
+1001,Afghanistan,Retail,Herat,Wheat,,0.142857143,0.066666667
+1002,Afghanistan,Retail,Jalalabad,Wheat,,0.055555556,0.151515152
+1003,Afghanistan,Retail,Kandahar,Wheat,,0.114285714,0.344827586
+1004,Argentina,Wholesale,Buenos Aires,Wheat,,0.105263158,-0.045454545
+1005,Brazil,Wholesale,ParanÃ¡,Wheat,,0.095238095,0
+1006,Brazil,Wholesale,Rio Grande do Sul,Wheat,,0.176470588,0
+1007,Chile,Wholesale,National Average,Wheat,,0.090909091,-0.04
+1008,China,Wholesale,National Average,Wheat,,0,0
+1009,India,Retail,Patna,Wheat,,-0.235294118,-0.161290323
+1010,India,Wholesale,New Delhi,Wheat,,-0.15625,-0.035714286
+1011,India,Retail,New Delhi,Wheat,,-0.138888889,0
+1012,India,Retail,Mumbai,Wheat,,0,0
+1013,India,Wholesale,Mumbai,Wheat,,-0.093023256,-0.025
+1014,India,Wholesale,Chennai,Wheat,,0.1,0.1
+1015,India,Retail,Chennai,Wheat,,0.040816327,0.085106383
+1016,India,Wholesale,Patna,Wheat,,-0.076923077,-0.04
+1017,Israel,Wholesale,National Average,Wheat,,0.103448276,0.066666667
+1018,Pakistan,Retail,Karachi,Wheat,,-0.035714286,0.038461538
+1019,Sudan,Wholesale,Kadugli,Wheat,,0.425,0.80952381
+1020,Sudan,Wholesale,Dongola,Wheat,,0.475409836,0.956521739
+1021,Sudan,Wholesale,Al-Fashir,Wheat,,1.25,1.589041096
+1022,South Africa,Wholesale,Randfontein,Wheat,,0.033333333,0
+1023,Pakistan,Retail,Peshawar,Wheat,,-0.074074074,-0.038461538
+1024,Pakistan,Retail,Multan,Wheat,,-0.12,0
+1025,Pakistan,Retail,Lahore,Wheat,,0.083333333,0.083333333
+1026,Yemen,Retail,Hajjah,Wheat,,0.07,0.150537634
+1027,Sudan,Wholesale,Khartoum,Wheat,,0.183333333,0.448979592
+1028,Uruguay,Wholesale,National Average,Wheat,,0,-0.045454545
+1029,Yemen,Retail,Dhamar,Wheat,,0.08,0.048543689
+1030,Yemen,Retail,Hadramout,Wheat,,0.18627451,0.21
+1031,Ukraine,Wholesale,National Average,Wheat,,0.157894737,0.1
+1032,Yemen,Retail,Hodeidah,Wheat,,0.079545455,0.010638298
+1033,Russian Federation,Wholesale,National Average,Wheat,,0.157894737,0.1
+1034,Morocco,Retail,National Average,Wheat,,0.212121212,0.31147541
+1035,Saudi Arabia,Retail,National Average,Wheat,,0,0.008695652
+1036,Italy,Wholesale,National Average,Wheat,,0.066666667,0.185185185
+1037,Afghanistan,Retail,Herat,Wheat (flour),,0.081081081,0.025641026
+1038,Bangladesh,Wholesale,Dhaka,Wheat (flour),,-0.103448276,-0.037037037
+1039,Azerbaijan,Retail,National Average,Wheat (flour),,-0.015151515,0
+1040,Argentina,Retail,Greater Buenos Aires,Wheat (flour),,-0.015151515,-0.121621622
+1041,Afghanistan,Retail,Kandahar,Wheat (flour),,0.146341463,0.382352941
+1042,Afghanistan,Retail,Kabul,Wheat (flour),,0.236842105,0.236842105
+1043,Afghanistan,Retail,Jalalabad,Wheat (flour),,0.119047619,0.175
+1044,Bangladesh,Retail,Dhaka,Wheat (flour),,-0.03030303,0
+1045,Belarus,Retail,Minsk,Wheat (flour),,-0.193548387,-0.180327869
+1046,Belarus,Retail,National Average,Wheat (flour),,-0.147540984,-0.147540984
+1047,Botswana,Retail,National Average,Wheat (flour),,-0.08974359,-0.077922078
+1048,Bolivia,Retail,Sucre,Wheat (flour),,0,0
+1049,Bolivia,Retail,Oruro,Wheat (flour),,0,-0.012820513
+1050,Bolivia,Retail,Santa Cruz,Wheat (flour),,0.146666667,0.162162162
+1051,Bolivia,Retail,Trinidad,Wheat (flour),,0.092105263,0.121621622
+1052,Brazil,Wholesale,Federal District,Wheat (flour),,-0.03125,-0.138888889
+1053,Brazil,Wholesale,SÃ£o Paulo,Wheat (flour),,-0.058823529,-0.127272727
+1054,Brazil,Retail,SÃ£o Paulo,Wheat (flour),,-0.214285714,-0.24137931
+1055,Cabo Verde,Retail,S.AntÃ£o,Wheat (flour),,0.061538462,0.061538462
+1056,Cabo Verde,Retail,S.Vincente,Wheat (flour),,-0.018518519,-0.018518519
+1057,Cabo Verde,Retail,Santiago,Wheat (flour),,0,0
+1058,Colombia,Wholesale,Cartagena,Wheat (flour),,0.040816327,0
+1059,Colombia,Wholesale,BogotÃ¡,Wheat (flour),,0,-0.036363636
+1060,Colombia,Wholesale,Barranquilla,Wheat (flour),,-0.023255814,0
+1061,Cameroon,Retail,YaundÃ©,Wheat (flour),,0,-0.028985507
+1062,Cameroon,Retail,Douala,Wheat (flour),,0.028985507,-0.013888889
+1063,El Salvador,Wholesale,San Salvador,Wheat (flour),,0,0
+1064,Egypt,Retail,National Average,Wheat (flour),,0.024390244,-0.045454545
+1065,Ecuador,Wholesale,Quito,Wheat (flour),,-0.0625,-0.0625
+1066,Costa Rica,Retail,National Average,Wheat (flour),,0.031746032,0.056910569
+1067,Eswatini,Retail,National average,Wheat (flour),,-0.12244898,-0.131313131
+1068,India,Retail,New Delhi,Wheat (flour),,-0.076923077,0.028571429
+1069,India,Retail,Mumbai,Wheat (flour),,-0.020408163,0.021276596
+1070,India,Retail,Chennai,Wheat (flour),,0.065217391,-0.02
+1071,Georgia,Retail,National Average,Wheat (flour),,0.01369863,0.01369863
+1072,Mauritania,Retail,Nouakchott,Wheat (flour),,-0.117647059,-0.134615385
+1073,Kazakhstan,Wholesale,National Average,Wheat (flour),,0.085714286,0.117647059
+1074,Japan,Retail,Tokyo,Wheat (flour),,0.004115226,0.029535865
+1075,Israel,Retail,National Average,Wheat (flour),,0,0.028846154
+1076,Japan,Retail,Osaka,Wheat (flour),,0,-0.008695652
+1077,Iraq,Retail,National Average,Wheat (flour),,0.05,0.024390244
+1078,India,Retail,Patna,Wheat (flour),,-0.195121951,-0.083333333
+1079,Indonesia,Retail,National Average,Wheat (flour),,-0.05,-0.017241379
+1080,Mongolia,Retail,Bayan-Ulgii,Wheat (flour),,0.018518519,0
+1081,Mongolia,Retail,Dornod,Wheat (flour),,-0.018867925,-0.103448276
+1082,Mongolia,Retail,Selenge,Wheat (flour),,-0.085106383,-0.14
+1083,Mongolia,Retail,Ulaanbaatar,Wheat (flour),,0.025,0.025
+1084,Mongolia,Retail,Uvurkhangai,Wheat (flour),,-0.022222222,-0.063829787
+1085,Namibia,Retail,Gobabis,Wheat (flour),,-0.245901639,-0.220338983
+1086,Namibia,Retail,Swakopmund,Wheat (flour),,-0.009345794,-0.070175439
+1087,Namibia,Retail,Otjiwarongo,Wheat (flour),,0.127659575,0.081632653
+1088,Namibia,Retail,Oshakati,Wheat (flour),,-0.08411215,-0.08411215
+1089,Namibia,Retail,Mariental,Wheat (flour),,-0.080808081,-0.099009901
+1090,Namibia,Retail,Keetmanshoop,Wheat (flour),,-0.150442478,-0.186440678
+1091,Namibia,Retail,Katima,Wheat (flour),,-0.139130435,-0.175
+1092,Namibia,Retail,Windhoek,Wheat (flour),,-0.082568807,-0.090909091
+1093,Nepal,Retail,Kathmandu,Wheat (flour),,-0.018867925,0.238095238
+1094,Peru,Retail,Lima,Wheat (flour),,0.088888889,0.105263158
+1095,Peru,Wholesale,Lima,Wheat (flour),,-0.018867925,-0.018867925
+1096,Pakistan,Retail,Quetta,Wheat (flour),,-0.03030303,0.142857143
+1097,Pakistan,Retail,Peshawar,Wheat (flour),,0,0.148148148
+1098,Pakistan,Retail,Multan,Wheat (flour),,0.153846154,0.153846154
+1099,Pakistan,Retail,Lahore,Wheat (flour),,0.115384615,0.115384615
+1100,Pakistan,Retail,Karachi,Wheat (flour),,-0.028571429,0.133333333
+1101,Occupied Palestinian Territory,Retail,Gaza Strip,Wheat (flour),,0.038095238,0.058252427
+1102,Yemen,Retail,Hajjah,Wheat (flour),,0.095652174,0.125
+1103,Yemen,Retail,Dhamar,Wheat (flour),,0.025,0.025
+1104,Yemen,Retail,Hadramout,Wheat (flour),,0.082568807,0.044247788
+1105,Sri Lanka,Retail,Colombo,Wheat (flour),,-0.056603774,-0.056603774
+1106,South Sudan,Retail,Juba,Wheat (flour),,1.347826087,1.103896104
+1107,Russian Federation,Retail,National Average,Wheat (flour),,0,0
+1108,South Africa,Retail,National Average,Wheat (flour),,-0.246753247,-0.292682927
+1109,Russian Federation,Retail,National Average,Wheat (flour),,0.080649601,0.077979132
+1110,Yemen,Retail,Hodeidah,Wheat (flour),,0.07,0.019047619
+1111,Zimbabwe,Retail,Harare,Wheat (flour),,0.212765957,1.035714286
+1112,Zimbabwe,Retail,Harare,Wheat (flour),,0.212765957,1.035714286
+1113,Zimbabwe,Retail,Manicaland,Wheat (flour),,0.435714286,1.284090909
+1114,Zimbabwe,Retail,Mash central,Wheat (flour),,0.416666667,0.91011236
+1115,Zimbabwe,Retail,Mash east,Wheat (flour),,0.456,1.11627907
+1116,Zimbabwe,Retail,Mash west,Wheat (flour),,-0.133858268,0.264367816
+1117,Zimbabwe,Retail,Masvingo,Wheat (flour),,0.480916031,1.179775281
+1118,Zimbabwe,Retail,Mat north,Wheat (flour),,0.455223881,1.321428571
+1119,Zimbabwe,Retail,Mat south,Wheat (flour),,0.430555556,0.791304348
+1120,Zimbabwe,Retail,Midlands,Wheat (flour),,0.335714286,1.032608696
+1121,Armenia,Retail,National Average,Wheat (flour),,0,0
+1122,China,Wholesale,National Average,Wheat (flour),,0.02,-0.019230769
+1123,Kyrgyzstan,Retail,National Average,Wheat (flour),,0.106382979,0.209302326
+1124,Tajikistan,Retail,National Average,Wheat (flour),,0.243243243,0.210526316
+1125,Uzbekistan,Wholesale,National Average,Wheat (flour),,0.52,0.727272727
+1126,Ukraine,Wholesale,National Average,Wheat (flour),,0,0
+1127,Italy,Wholesale,National Average,Wheat (milling soft),,0.047619048,-0.083333333
+1128,Ethiopia,Wholesale,Addis Ababa,Wheat (white),,-0.15,-0.037735849
+1129,Ethiopia,Wholesale,Bale Robe,Wheat (white),,-0.125,-0.086956522
+1130,Ethiopia,Wholesale,Diredawa,Wheat (white),,0.036363636,0
+1131,Ethiopia,Wholesale,Debre Marcos,Wheat (white),,-0.156862745,-0.12244898
+1132,Ethiopia,Wholesale,Jimma,Wheat (white),,-0.018181818,0.058823529
+1133,Ethiopia,Wholesale,Shashemene,Wheat (white),,-0.134615385,-0.0625
+1134,Zambia,Retail,National Average,White roller maize meal,,-0.324324324,-0.074074074
+1135,Ghana,Wholesale,Kumasi,Yam,,1.304347826,1.304347826
+1136,Ghana,Wholesale,Bolgatanga,Yam,,1,0
+1137,Ghana,Wholesale,Accra,Yam,,0.083333333,-0.338983051
+1138,Cote d'Ivoire,Retail,Abidjan,Yam,,-0.054945055,-0.180952381
+1139,Benin,Retail,Parakou,Yam,,0.057142857,0.027777778
+1140,Benin,Retail,Natitingou,Yam,,0.088235294,0.057142857
+1141,Benin,Retail,Cotonou,Yam,,0.057692308,0.1
+1142,Ghana,Wholesale,Tamale,Yam,,-0.090909091,0
+1143,Ghana,Wholesale,Techiman,Yam,,0.7,-0.128205128
