@@ -18,7 +18,7 @@ def create_cursor():
         host='localhost',
         database='project3',
         user='postgres',
-        password='*BlackSkies7'
+        password='Gwqcmn47sv'
     )
 
     # Create a cursor to interact with the database
