@@ -1,15 +1,17 @@
 import numpy as np
 import sqlalchemy
 import pandas as pd
-from flask import Flask, jsonify
+from flask import Flask, render_template, jsonify
 import psycopg2
+from flask_cors import CORS
+
 
 
 #################################################
 # Flask Setup
 #################################################
 app = Flask(__name__)
-
+cors = CORS(app)
 
 # Function to create connection and cursor to connect to the PostgreSQL Database
 def create_cursor():
@@ -18,6 +20,7 @@ def create_cursor():
         host='localhost',
         database='project3',
         user='postgres',
+        #Replace with YOUR user password for pgadmin 4
         password='Gwqcmn47sv'
     )
 
@@ -34,58 +37,122 @@ app = Flask(__name__)
 @app.route("/")
 def welcome():
     """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/percent_price_changes<br/>"
-        f"/api/v1.0/domestic_change<br/>"
-        f"/api/v1.0/international_food_price_data"
-    )
+    return render_template("index.html")
+    #return("List all available routes")
 
-@app.route("/api/v1.0/percent_price_changes")
-def percent_price_changes():
-    
+
+
+@app.route("/api/v1.0/domestic_change/<country>/boxplot")
+def boxplot(country):
     conn, cursor = create_cursor()
-    cursor.execute('SELECT country,commodity,post_covid FROM percent_change_post_covid')
-    #percentage_display_data = db.session.query(percent_change.country,percent_change.commodity,percent_change.post_covid).all()
-
-    percentage_display_data = cursor.fetchall()
+    
+    cursor.execute(f"SELECT * FROM box_plot_data where country = '{country}'")
+    
+    box_plot_data = cursor.fetchall()
     
     # Close the cursor and the database connection
     cursor.close()
     conn.close()
     
-    return jsonify(percentage_display_data)
+    return jsonify(box_plot_data)
 
-
-    
-@app.route("/api/v1.0/domestic_change")
-def domestic_change():
+@app.route("/api/v1.0/domestic_change/<country>/lineplot")
+def lineplot(country):
     conn, cursor = create_cursor()
     
-    cursor.execute('SELECT * FROM dom_cleaned_data')
-
-    domestic_data = cursor.fetchall()
+    cursor.execute(f"SELECT * FROM line_graph_data where country = '{country}'")
+    
+    box_plot_data = cursor.fetchall()
     
     # Close the cursor and the database connection
     cursor.close()
     conn.close()
     
-    return jsonify(domestic_data)
- 
-@app.route("/api/v1.0/international_food_price_data")
-def international_data():
+    return jsonify(box_plot_data)
+
+
+@app.route("/api/v1.0/domestic_commodities/<country>")
+def domestic_commodities(country):
     conn, cursor = create_cursor()
     
-    cursor.execute('SELECT * FROM int_clean_data_cleaned')
+    cursor.execute(f"SELECT DISTINCT commodity FROM line_graph_data where country = '{country}'")
 
-    international_data = cursor.fetchall()
+    commodities = cursor.fetchall()
+    
+    return jsonify(commodities)
+
+@app.route("/api/v1.0/box_country_list")
+def country_list():
+    conn, cursor = create_cursor()
+    
+    query = f"SELECT DISTINCT country FROM box_plot_data order by country"
+    cursor.execute(query)
+    
+    countries = cursor.fetchall()
     
     # Close the cursor and the database connection
     cursor.close()
     conn.close()
     
-    return jsonify(international_data)
+    return jsonify(countries)
 
+@app.route("/api/v1.0/int_commodity_list")
+def commodity_list():
+    conn, cursor = create_cursor()
+    
+    query = f"SELECT DISTINCT commodity FROM int_annual_index"
+    cursor.execute(query)
+    
+    commodities = cursor.fetchall()
+    # Close the cursor and the database connection
+    cursor.close()
+    conn.close()
+    
+    return jsonify(commodities)
+
+@app.route("/api/v1.0/int_commodity_data")
+def int_commodity_data():
+    conn, cursor = create_cursor()
+    
+    query = f"SELECT * FROM int_annual_index"
+    cursor.execute(query)
+    
+    commodity_data = cursor.fetchall()
+    # Close the cursor and the database connection
+    cursor.close()
+    conn.close()
+    
+    return jsonify(commodity_data)
+
+@app.route("/api/v1.0/bar_2010")
+def bar_2010_data():
+    conn, cursor = create_cursor()
+    
+    query = f"SELECT * FROM bar_2010"
+    cursor.execute(query)
+    
+    data_2010 = cursor.fetchall()
+    
+    # Close the cursor and the database connection
+    cursor.close()
+    conn.close()
+    
+    return jsonify(data_2010)
+
+@app.route("/api/v1.0/bar_2020")
+def bar_2020_data():
+    conn, cursor = create_cursor()
+    
+    query = f"SELECT * FROM bar_wheat_2020"
+    cursor.execute(query)
+    
+    data_2020 = cursor.fetchall()
+    
+    # Close the cursor and the database connection
+    cursor.close()
+    conn.close()
+    
+    return jsonify(data_2020)
 
 
 if __name__ == "__main__":

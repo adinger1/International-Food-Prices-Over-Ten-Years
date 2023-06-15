@@ -1,0 +1,319 @@
+Year,country,commodity,price
+2010,Chile,Maize (yellow),0.2225
+2010,Chile,Wheat,0.2175
+2010,Costa Rica,Beans (black),1.6933333333333334
+2010,Costa Rica,Beans (red),1.8975
+2010,Costa Rica,Maize (white),0.5341666666666667
+2010,Guatemala,Beans (black),1.0016666666666667
+2010,Guatemala,Maize (white),0.3275
+2010,Honduras,Beans (red),1.1191666666666666
+2010,Honduras,Maize (white),0.2866666666666667
+2010,Israel,Maize,0.27416666666666667
+2010,Israel,Wheat,0.28250000000000003
+2010,Italy,Rice,0.5866666666666667
+2010,Italy,Wheat,0.24250000000000002
+2010,Italy,Wheat (milling soft),0.24
+2010,Kazakhstan,Beef meat,5.119090909090909
+2010,Kazakhstan,Potatoes,0.46
+2010,Kazakhstan,Wheat (flour),0.3663636363636364
+2010,Philippines,Maize (white),0.3333333333333333
+2010,Philippines,Maize (yellow),0.31916666666666665
+2010,Philippines,Rice,0.63
+2010,Russian Federation,Maize,0.21
+2010,Russian Federation,Wheat,0.17416666666666666
+2010,Ukraine,Wheat,0.16666666666666666
+2010,Ukraine,Wheat (flour),0.25833333333333336
+2010,Uruguay,Rice,0.24299999999999997
+2010,Uruguay,Wheat,0.22400000000000003
+2010,Uzbekistan,Wheat (flour),0.28750000000000003
+2011,Chile,Maize (yellow),0.29333333333333333
+2011,Chile,Wheat,0.30416666666666664
+2011,Costa Rica,Beans (black),1.6608333333333334
+2011,Costa Rica,Beans (red),2.4216666666666664
+2011,Costa Rica,Maize (white),0.7233333333333333
+2011,Guatemala,Beans (black),1.0341666666666667
+2011,Guatemala,Maize (white),0.47500000000000003
+2011,Honduras,Beans (red),1.53
+2011,Honduras,Maize (white),0.4458333333333333
+2011,Israel,Maize,0.37083333333333335
+2011,Israel,Wheat,0.3858333333333333
+2011,Italy,Rice,0.7822222222222223
+2011,Italy,Wheat,0.4008333333333334
+2011,Italy,Wheat (milling soft),0.3416666666666666
+2011,Kazakhstan,Beef meat,6.895
+2011,Kazakhstan,Potatoes,0.6791666666666667
+2011,Kazakhstan,Wheat (flour),0.49333333333333335
+2011,Philippines,Maize (white),0.38083333333333336
+2011,Philippines,Maize (yellow),0.35000000000000003
+2011,Philippines,Rice,0.6725
+2011,Russian Federation,Maize,0.2625
+2011,Russian Federation,Wheat,0.21583333333333332
+2011,Ukraine,Wheat,0.21916666666666665
+2011,Ukraine,Wheat (flour),0.33666666666666667
+2011,Uruguay,Rice,0.24833333333333332
+2011,Uruguay,Wheat,0.3016666666666667
+2011,Uzbekistan,Wheat (flour),0.31666666666666665
+2012,Chile,Maize (yellow),0.285
+2012,Chile,Wheat,0.31333333333333335
+2012,Costa Rica,Beans (black),1.6841666666666668
+2012,Costa Rica,Beans (red),2.285
+2012,Costa Rica,Maize (white),0.7075
+2012,Guatemala,Beans (black),1.08
+2012,Guatemala,Maize (white),0.41500000000000004
+2012,Honduras,Beans (red),0.8833333333333333
+2012,Honduras,Maize (white),0.3275
+2012,Israel,Maize,0.3541666666666667
+2012,Israel,Wheat,0.3541666666666667
+2012,Italy,Rice,0.434
+2012,Italy,Wheat,0.36083333333333334
+2012,Italy,Wheat (milling soft),0.315
+2012,Kazakhstan,Beef meat,9.025833333333333
+2012,Kazakhstan,Potatoes,0.465
+2012,Kazakhstan,Wheat (flour),0.42416666666666664
+2012,Philippines,Maize (white),0.36999999999999994
+2012,Philippines,Maize (yellow),0.3741666666666667
+2012,Philippines,Rice,0.7124999999999999
+2012,Russian Federation,Maize,0.215
+2012,Russian Federation,Wheat,0.2508333333333333
+2012,Ukraine,Wheat,0.22416666666666665
+2012,Ukraine,Wheat (flour),0.33749999999999997
+2012,Uruguay,Rice,0.24666666666666667
+2012,Uruguay,Wheat,0.265
+2012,Uzbekistan,Wheat (flour),0.35250000000000004
+2013,Chile,Maize (yellow),0.26333333333333336
+2013,Chile,Wheat,0.3283333333333333
+2013,Costa Rica,Beans (black),1.7291666666666667
+2013,Costa Rica,Beans (red),2.1825
+2013,Costa Rica,Maize (white),0.7258333333333332
+2013,Guatemala,Beans (black),0.9175
+2013,Guatemala,Maize (white),0.3875
+2013,Honduras,Beans (red),0.7241666666666666
+2013,Honduras,Maize (white),0.37000000000000005
+2013,Israel,Maize,0.3475
+2013,Israel,Wheat,0.3625
+2013,Italy,Rice,0.5145454545454545
+2013,Italy,Wheat,0.36916666666666664
+2013,Italy,Wheat (milling soft),0.31
+2013,Kazakhstan,Beef meat,10.264166666666666
+2013,Kazakhstan,Potatoes,0.5366666666666667
+2013,Kazakhstan,Wheat (flour),0.505
+2013,Philippines,Maize (white),0.36333333333333334
+2013,Philippines,Maize (yellow),0.3758333333333333
+2013,Philippines,Rice,0.7425
+2013,Russian Federation,Maize,0.23583333333333334
+2013,Russian Federation,Wheat,0.2783333333333333
+2013,Ukraine,Wheat,0.23416666666666666
+2013,Ukraine,Wheat (flour),0.3591666666666667
+2013,Uruguay,Rice,0.26
+2013,Uruguay,Wheat,0.3183333333333333
+2013,Uzbekistan,Wheat (flour),0.35916666666666663
+2014,Chile,Maize (yellow),0.23083333333333333
+2014,Chile,Wheat,0.28750000000000003
+2014,China,Rice,0.685
+2014,China,Wheat,0.4091666666666667
+2014,China,Wheat (flour),0.55
+2014,Costa Rica,Beans (black),1.7033333333333334
+2014,Costa Rica,Beans (red),2.4275
+2014,Costa Rica,Maize (white),0.6308333333333334
+2014,Guatemala,Beans (black),1.0250000000000001
+2014,Guatemala,Maize (white),0.37000000000000005
+2014,Honduras,Beans (red),1.5350000000000001
+2014,Honduras,Maize (white),0.30916666666666665
+2014,Israel,Maize,0.27416666666666667
+2014,Israel,Wheat,0.3066666666666667
+2014,Italy,Rice,0.8475
+2014,Italy,Wheat,0.4075
+2014,Italy,Wheat (milling soft),0.2675
+2014,Kazakhstan,Beef meat,6.6499999999999995
+2014,Kazakhstan,Potatoes,0.4975
+2014,Kazakhstan,Wheat (flour),0.49333333333333335
+2014,Philippines,Maize (white),0.3575
+2014,Philippines,Maize (yellow),0.3833333333333333
+2014,Philippines,Rice,0.8275
+2014,Russian Federation,Maize,0.19000000000000003
+2014,Russian Federation,Wheat,0.22583333333333333
+2014,Ukraine,Wheat,0.19333333333333333
+2014,Ukraine,Wheat (flour),0.28
+2014,Uruguay,Rice,0.26583333333333337
+2014,Uruguay,Wheat,0.26166666666666666
+2014,Uzbekistan,Wheat (flour),0.36166666666666664
+2015,Chile,Maize (yellow),0.19666666666666666
+2015,Chile,Wheat,0.24750000000000003
+2015,China,Rice,0.6875
+2015,China,Wheat,0.3925
+2015,China,Wheat (flour),0.5566666666666668
+2015,Costa Rica,Beans (black),1.8066666666666666
+2015,Costa Rica,Beans (red),2.885
+2015,Costa Rica,Maize (white),0.725
+2015,Guatemala,Beans (black),1.0258333333333334
+2015,Guatemala,Maize (white),0.3758333333333333
+2015,Honduras,Beans (red),1.235
+2015,Honduras,Maize (white),0.3972727272727273
+2015,Israel,Maize,0.2325
+2015,Israel,Wheat,0.2525
+2015,Italy,Rice,0.7744444444444444
+2015,Italy,Wheat,0.3466666666666667
+2015,Italy,Wheat (milling soft),0.21
+2015,Kazakhstan,Beef meat,5.278333333333333
+2015,Kazakhstan,Potatoes,0.37333333333333335
+2015,Kazakhstan,Wheat (flour),0.555
+2015,Philippines,Maize (white),0.3541666666666667
+2015,Philippines,Maize (yellow),0.3741666666666667
+2015,Philippines,Rice,0.7608333333333334
+2015,Russian Federation,Maize,0.14416666666666667
+2015,Russian Federation,Wheat,0.17166666666666666
+2015,Ukraine,Wheat,0.15833333333333335
+2015,Ukraine,Wheat (flour),0.245
+2015,Uruguay,Rice,0.245
+2015,Uruguay,Wheat,0.2125
+2015,Uzbekistan,Wheat (flour),0.35000000000000003
+2016,Chile,Maize (yellow),0.1991666666666667
+2016,Chile,Wheat,0.20333333333333334
+2016,China,Rice,0.6441666666666667
+2016,China,Wheat,0.3541666666666667
+2016,China,Wheat (flour),0.5075
+2016,Costa Rica,Beans (black),1.5816666666666668
+2016,Costa Rica,Beans (red),2.2025
+2016,Costa Rica,Maize (white),0.7408333333333333
+2016,Guatemala,Beans (black),1.16
+2016,Guatemala,Maize (white),0.3658333333333333
+2016,Honduras,Beans (red),0.9358333333333334
+2016,Honduras,Maize (white),0.38083333333333336
+2016,Israel,Maize,0.23083333333333333
+2016,Israel,Wheat,0.235
+2016,Italy,Rice,0.7110000000000001
+2016,Italy,Wheat,0.24250000000000002
+2016,Italy,Wheat (milling soft),0.18666666666666668
+2016,Kazakhstan,Beef meat,3.546666666666667
+2016,Kazakhstan,Potatoes,0.24166666666666667
+2016,Kazakhstan,Wheat (flour),0.3233333333333333
+2016,Philippines,Maize (white),0.3658333333333333
+2016,Philippines,Maize (yellow),0.3725
+2016,Philippines,Rice,0.725
+2016,Russian Federation,Maize,0.16083333333333333
+2016,Russian Federation,Wheat,0.16416666666666666
+2016,Ukraine,Wheat,0.15583333333333335
+2016,Ukraine,Wheat (flour),0.21833333333333335
+2016,Uruguay,Rice,0.21
+2016,Uruguay,Wheat,0.16583333333333333
+2016,Uzbekistan,Wheat (flour),0.3
+2017,Chile,Maize (yellow),0.19999999999999998
+2017,Chile,Wheat,0.2041666666666667
+2017,China,Rice,0.64125
+2017,China,Wheat,0.3666666666666667
+2017,China,Wheat (flour),0.5266666666666667
+2017,Costa Rica,Beans (black),1.7391666666666667
+2017,Costa Rica,Beans (red),2.0791666666666666
+2017,Costa Rica,Maize (white),0.7283333333333334
+2017,Guatemala,Beans (black),1.2166666666666666
+2017,Guatemala,Maize (white),0.33166666666666667
+2017,Honduras,Beans (red),0.8983333333333333
+2017,Honduras,Maize (white),0.27166666666666667
+2017,Israel,Maize,0.24416666666666667
+2017,Israel,Wheat,0.2525
+2017,Italy,Rice,0.36833333333333335
+2017,Italy,Wheat,0.245
+2017,Italy,Wheat (milling soft),0.205
+2017,Kazakhstan,Beef meat,3.7241666666666666
+2017,Kazakhstan,Potatoes,0.3641666666666667
+2017,Kazakhstan,Wheat (flour),0.35916666666666663
+2017,Philippines,Maize (white),0.3416666666666666
+2017,Philippines,Maize (yellow),0.3566666666666667
+2017,Philippines,Rice,0.6966666666666667
+2017,Russian Federation,Maize,0.1425
+2017,Russian Federation,Wheat,0.16666666666666666
+2017,Ukraine,Wheat,0.18000000000000002
+2017,Ukraine,Wheat (flour),0.23166666666666666
+2017,Uruguay,Rice,0.1975
+2017,Uruguay,Wheat,0.18416666666666667
+2017,Uzbekistan,Wheat (flour),0.1991666666666667
+2018,Chile,Maize (yellow),0.20916666666666664
+2018,Chile,Wheat,0.24416666666666667
+2018,China,Rice,0.66
+2018,China,Wheat,0.37083333333333335
+2018,China,Wheat (flour),0.5375
+2018,Costa Rica,Beans (black),1.8591666666666666
+2018,Costa Rica,Beans (red),2.1625
+2018,Costa Rica,Maize (white),0.6758333333333333
+2018,Guatemala,Beans (black),1.0033333333333334
+2018,Guatemala,Maize (white),0.36999999999999994
+2018,Honduras,Beans (red),0.9658333333333333
+2018,Honduras,Maize (white),0.3575
+2018,Israel,Maize,0.255
+2018,Israel,Wheat,0.27416666666666667
+2018,Italy,Rice,0.41363636363636364
+2018,Italy,Wheat,0.2609090909090909
+2018,Italy,Wheat (milling soft),0.23363636363636361
+2018,Kazakhstan,Beef meat,3.6166666666666667
+2018,Kazakhstan,Potatoes,0.3175
+2018,Kazakhstan,Wheat (flour),0.3433333333333333
+2018,Philippines,Maize (white),0.3925
+2018,Philippines,Maize (yellow),0.3841666666666667
+2018,Philippines,Rice,0.7383333333333333
+2018,Russian Federation,Maize,0.14833333333333334
+2018,Russian Federation,Wheat,0.17416666666666666
+2018,Ukraine,Wheat,0.2041666666666667
+2018,Ukraine,Wheat (flour),0.27
+2018,Uruguay,Rice,0.19666666666666668
+2018,Uruguay,Wheat,0.21583333333333332
+2018,Uzbekistan,Wheat (flour),0.12
+2019,Chile,Maize (yellow),0.2
+2019,Chile,Wheat,0.24416666666666667
+2019,China,Rice,0.6133333333333333
+2019,China,Wheat,0.3458333333333334
+2019,China,Wheat (flour),0.51
+2019,Costa Rica,Beans (black),1.7808333333333335
+2019,Costa Rica,Beans (red),2.085
+2019,Costa Rica,Maize (white),0.6258333333333334
+2019,Guatemala,Beans (black),0.9458333333333333
+2019,Guatemala,Maize (white),0.385
+2019,Honduras,Beans (red),0.9283333333333333
+2019,Honduras,Maize (white),0.35916666666666663
+2019,Israel,Maize,0.2608333333333333
+2019,Israel,Wheat,0.29583333333333334
+2019,Italy,Rice,0.462
+2019,Italy,Wheat,0.277
+2019,Italy,Wheat (milling soft),0.22599999999999998
+2019,Kazakhstan,Beef meat,3.1983333333333337
+2019,Kazakhstan,Potatoes,0.21583333333333332
+2019,Kazakhstan,Wheat (flour),0.3408333333333333
+2019,Philippines,Maize (white),0.375
+2019,Philippines,Maize (yellow),0.385
+2019,Philippines,Rice,0.6858333333333334
+2019,Russian Federation,Maize,0.16916666666666666
+2019,Russian Federation,Wheat,0.19666666666666666
+2019,Ukraine,Wheat,0.2041666666666667
+2019,Ukraine,Wheat (flour),0.3116666666666667
+2019,Uruguay,Rice,0.19583333333333333
+2019,Uruguay,Wheat,0.21583333333333332
+2019,Uzbekistan,Wheat (flour),0.22000000000000003
+2020,Chile,Maize (yellow),0.188
+2020,Chile,Wheat,0.2333333333333333
+2020,China,Rice,0.5666666666666667
+2020,China,Wheat,0.3433333333333333
+2020,China,Wheat (flour),0.5116666666666667
+2020,Costa Rica,Beans (black),1.8
+2020,Costa Rica,Beans (red),2.1060000000000003
+2020,Costa Rica,Maize (white),0.565
+2020,Guatemala,Beans (black),1.1179999999999999
+2020,Guatemala,Maize (white),0.404
+2020,Honduras,Beans (red),1.076
+2020,Honduras,Maize (white),0.392
+2020,Israel,Maize,0.26
+2020,Israel,Wheat,0.308
+2020,Italy,Rice,0.43
+2020,Italy,Wheat,0.31
+2020,Italy,Wheat (milling soft),0.22400000000000003
+2020,Kazakhstan,Beef meat,5.326
+2020,Kazakhstan,Potatoes,0.264
+2020,Kazakhstan,Wheat (flour),0.384
+2020,Philippines,Maize (white),0.352
+2020,Philippines,Maize (yellow),0.41600000000000004
+2020,Philippines,Rice,0.6679999999999999
+2020,Russian Federation,Maize,0.158
+2020,Russian Federation,Wheat,0.19833333333333333
+2020,Ukraine,Wheat,0.21833333333333335
+2020,Ukraine,Wheat (flour),0.315
+2020,Uruguay,Rice,0.18666666666666668
+2020,Uruguay,Wheat,0.19999999999999998
+2020,Uzbekistan,Wheat (flour),0.2816666666666667

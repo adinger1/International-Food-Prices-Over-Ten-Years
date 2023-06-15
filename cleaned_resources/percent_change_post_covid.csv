@@ -1,6 +1,6 @@
 country,price_type,market,commodity,post_covid,yearly
 Cote d'Ivoire,Retail,Abidjan,Attieke,-0.061538462,-0.031746032
-Cameroon,Retail,Yaounde,Bananas (plantains),0.0,0.0
+Cameroon,Retail,Yaoundé,Bananas (plantains),0.0,0.0
 Cameroon,Retail,Bafoussam,Bananas (plantains),-0.305555556,0.041666667
 Morocco,Retail,National Average,Barley (imported),-0.034482759,-0.034482759
 Cote d'Ivoire,Retail,Abidjan,Banana (plantains),0.769230769,0.232142857
@@ -40,7 +40,7 @@ El Salvador,Retail,San Salvador,Beans (red),0.094890511,0.190476191
 Cameroon,Retail,Bafoussam,Beans (red),0.060869565,0.418604651
 Cameroon,Retail,Bamenda,Beans (red),-0.011494253,-0.054945055
 Cameroon,Retail,Garoua,Beans (red),0.005780347,0.260869565
-Cameroon,Retail,Yaounde,Beans (red),0.095238095,0.026785714
+Cameroon,Retail,Yaoundé,Beans (red),0.095238095,0.026785714
 Costa Rica,Wholesale,National Average,Beans (red),0.029126214,0.014354067
 Dominican Republic,Wholesale,Santo Domingo,Beans (red),-0.036082474,0.074712644
 Costa Rica,Retail,National Average,Beans (red),0.026315789,0.073394495
@@ -179,7 +179,7 @@ Peru,Retail,Lima,Chicken (without offals),-0.160194175,-0.254310345
 Dominican Republic,Retail,Santo Domingo,Chicken (processed),-0.257425743,-0.324324324
 Malawi,Retail,Mzuzu,Cassava (root),-0.320754717,-0.320754717
 Israel,Retail,National Average,Chicken meat,-0.042274052,-0.01793722
-Cameroon,Retail,Yaounde,Cassava (root),0.171428571,0.108108108
+Cameroon,Retail,Yaoundé,Cassava (root),0.171428571,0.108108108
 Bolivia,Wholesale,Cochabamba,Chicken meat,-0.261780105,0.084615385
 Bolivia,Wholesale,La Paz,Chicken meat,-0.25,0.117241379
 Bolivia,Retail,La Paz,Chicken meat,-0.37751004,-0.268867925
@@ -230,7 +230,7 @@ Burundi,Wholesale,Gitega,Maize,-0.327272727,0.541666667
 Dominican Republic,Wholesale,Santo Domingo,Maize,0.106382979,-0.315789474
 Chad,Retail,N'Djamena,Maize,0.113636364,0.225
 Cameroon,Retail,Garoua,Maize,0.0,-0.032258065
-Cameroon,Retail,Yaounde,Maize,0.028169014,0.177419355
+Cameroon,Retail,Yaoundé,Maize,0.028169014,0.177419355
 Chad,Retail,Bol,Maize,0.633333333,0.580645161
 Chad,Retail,Moussoro,Maize,0.464285714,0.025
 Chad,Retail,N'Djamena,Maize,0.108108108,0.205882353
@@ -586,7 +586,7 @@ Bolivia,Wholesale,Trinidad,Potatoes,-0.308641975,0.098039216
 Bolivia,Retail,Trinidad,Potatoes,-0.262711864,0.048192771
 Cameroon,Retail,Bafoussam,Potatoes,0.230769231,0.163636364
 Egypt,Retail,National Average,Potatoes,-0.096774194,0.166666667
-Cameroon,Retail,Yaounde,Potatoes,-0.072727273,-0.203125
+Cameroon,Retail,Yaoundé,Potatoes,-0.072727273,-0.203125
 Cameroon,Retail,Douala,Potatoes,0.048387097,0.048387097
 Cameroon,Retail,Bamenda,Potatoes,0.125,0.184210526
 India,Retail,Mumbai,Potatoes,0.175,0.342857143
@@ -651,7 +651,7 @@ Botswana,Retail,National Average,Rice,-0.087378641,-0.104761905
 Bolivia,Wholesale,La Paz,Quinoa,-0.008032129,0.0
 Cameroon,Retail,Douala,Rice,0.012345679,0.108108108
 Cameroon,Retail,Garoua,Rice,0.0,-0.023255814
-Cameroon,Retail,Yaounde,Rice,0.064935065,0.078947368
+Cameroon,Retail,Yaoundé,Rice,0.064935065,0.078947368
 El Salvador,Retail,San Salvador,Rice,0.112244898,0.112244898
 Eswatini,Retail,Shiselweni,Rice,-0.178571429,-0.197674419
 Eswatini,Retail,National average,Rice,-0.176470588,-0.230769231
@@ -1060,7 +1060,7 @@ Cabo Verde,Retail,Santiago,Wheat (flour),0.0,0.0
 Colombia,Wholesale,Cartagena,Wheat (flour),0.040816327,0.0
 Colombia,Wholesale,Bogotá,Wheat (flour),0.0,-0.036363636
 Colombia,Wholesale,Barranquilla,Wheat (flour),-0.023255814,0.0
-Cameroon,Retail,Yaounde,Wheat (flour),0.0,-0.028985507
+Cameroon,Retail,Yaoundé,Wheat (flour),0.0,-0.028985507
 Cameroon,Retail,Douala,Wheat (flour),0.028985507,-0.013888889
 El Salvador,Wholesale,San Salvador,Wheat (flour),0.0,0.0
 Egypt,Retail,National Average,Wheat (flour),0.024390244,-0.045454545
