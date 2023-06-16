@@ -23,12 +23,16 @@ function updateBoxplot(country){
     console.log(yAxisLabels)
 
     var layout = {
-      title: 'Commodity Prices for ' + country,
-      width: 600,
-      height: 500
-    };
+      title: 'Commodity Price Ranges for ' + country,
+      xaxis:{
+        title: 'Price ($)'
+      },
+      yaxis:{
+        tickangle:-45
+      }
+    }
 
-    Plotly.newPlot('chart', traces, layout); 
+    Plotly.newPlot('box', traces, layout); 
   })      
 }
 
@@ -66,9 +70,13 @@ function updateLinegraphs(country){
       }
 
       var layout = {
-        title: 'Commodities for ' + country,
-        width: 600,
-        height: 500
+        title: 'Commodities for ' + country + ' Over 10 Years',
+        xaxis:{
+          title: 'Time (Years)'
+        },
+        yaxis:{
+          title: "Cost ($)"
+        }
       };
       Plotly.newPlot('linechart',y_traces,layout)
     })
@@ -109,8 +117,12 @@ function commodityLinegraph(){
 
       var layout = {
         title: 'International Commodity Prices',
-        width: 700,
-        height: 500
+        xaxis:{
+          title: 'Time (Years)'
+        },
+        yaxis:{
+          title: "International Cost ($)"
+        }
       };
       Plotly.newPlot('line2',y_traces,layout)
     })
@@ -118,7 +130,7 @@ function commodityLinegraph(){
   })
 }
 
-function updateStackedBar(){
+function updateBar(){
   url1 = "http://127.0.0.1:5000/api/v1.0/bar_2010"
   url2 = "http://127.0.0.1:5000/api/v1.0/bar_2020"
   let x_countries = []
@@ -154,13 +166,17 @@ function updateStackedBar(){
     var traces = [trace1,trace2]
     let layout = {
       title: "Wheat Price Differences from 2010 to 2020",
-      barmode: 'stack',
+      barmode: 'group',
       xaxis: {
-        type: 'category'
+        type: 'category',
+        title: 'Country'
+      },
+      yaxis:{
+        title: "Domestic Cost ($)"
       }
     }
   
-    Plotly.newPlot('stackbar',traces,layout)
+    Plotly.newPlot('groupbar',traces,layout)
   })
 
   console.log(x_countries)
@@ -191,7 +207,7 @@ function init() {
     optionChanged(data[0][0]);
   });
 
-  updateStackedBar()
+  updateBar()
   commodityLinegraph()
 }   
     

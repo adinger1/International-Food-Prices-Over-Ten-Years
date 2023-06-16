@@ -33,6 +33,7 @@ This project is an example on how to take raw data, clean it, and visualize it i
 * Import Boxplot.csv,bar_wheat_2020.csv, bar_wheat_2010.csv,   international_data_annual_index.csv,Line_graph_annual_data.csv into SQl via Pgadmin4
 * Connect flask api with your SQL data base
 * Make sure to change the password with your own Pgadmin postgres User Password
+* Screenshots of the expected Dashboard can be viewed in the 'Dashboard Images' Folder
 
 
 ## Interesting Finds
